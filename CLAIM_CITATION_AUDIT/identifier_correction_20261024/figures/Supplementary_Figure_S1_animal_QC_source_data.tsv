@@ -1,0 +1,6 @@
+panel	file	role
+A	Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv	QC
+B	Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv	QC
+C	Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv	QC
+D	Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv	QC
+E	Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv; Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv	QC

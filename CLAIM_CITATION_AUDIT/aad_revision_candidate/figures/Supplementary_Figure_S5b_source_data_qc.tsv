@@ -1,0 +1,5 @@
+outcome	source_matches	harmonised_kept	mean_F	min_F	outcome_short	line	y
+Thoracic aortic aneurysm (FinnGen R13 I9_THAORTANEUR)	274	264	83.3752893211091	22.31000526334	FinnGen thoracic aortic aneurysm	"FinnGen thoracic aortic aneurysm
+264 harmonized instruments; mean F 83.4; minimum F 22.3"	2
+Thoracic aortic aneurysm (CHIP-MGI 2021)	276	224	85.4302970970822	22.31000526334	CHIP-MGI thoracic aortic aneurysm	"CHIP-MGI thoracic aortic aneurysm
+224 harmonized instruments; mean F 85.4; minimum F 22.3"	1

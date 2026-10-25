@@ -1,0 +1,11 @@
+dataset	expression_column	geo_accession	species	sex	treatment	pathology	primary_group	include_primary	exclusion_reason	PC1	PC2
+GSE146638	aorta_41	GSM4403078	Rattus norvegicus	not_reported	Control	Control	Control	yes	""	-20.9588863833423	2.54222624190654
+GSE146638	aorta_42	GSM4403079	Rattus norvegicus	not_reported	Control	Control	Control	yes	""	-24.7207626672667	6.81650335103478
+GSE146638	aorta_43	GSM4403080	Rattus norvegicus	not_reported	Control	Control	Control	yes	""	-19.978776753547	-4.60468299103547
+GSE146638	aorta_44	GSM4403081	Rattus norvegicus	not_reported	Control	Control	Control	yes	""	-25.6629365487939	11.1394905629496
+GSE146638	aorta_46	GSM4403082	Rattus norvegicus	not_reported	Control	Control	Control	yes	""	-20.3977191545281	-16.07145729231
+GSE146638	aorta_9	GSM4403083	Rattus norvegicus	not_reported	Uremic	Uremic	Uremic	yes	""	24.9636734577389	5.70280172925913
+GSE146638	aorta_17	GSM4403084	Rattus norvegicus	not_reported	Uremic	Uremic	Uremic	yes	""	23.4806146465394	12.8613901736411
+GSE146638	aorta_20	GSM4403085	Rattus norvegicus	not_reported	Uremic	Uremic	Uremic	yes	""	22.4233644177944	-5.01595841584662
+GSE146638	aorta_27	GSM4403086	Rattus norvegicus	not_reported	Uremic	Uremic	Uremic	yes	""	19.3752912012078	-20.51913517589
+GSE146638	aorta_28	GSM4403087	Rattus norvegicus	not_reported	Uremic	Uremic	Uremic	yes	""	21.4761377841975	7.148821816291

@@ -1,0 +1,529 @@
+{
+  "added_mapping_rows": 22,
+  "corrected_gene_mapping_audit": [
+    {
+      "corrected_symbol": "Septin2",
+      "ncbi_gene_id": "117515",
+      "stable_ids": [
+        "ENSRNOG00000017952"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin2",
+          "Gene stable ID": "ENSRNOG00000017952",
+          "Human gene name": "SEPTIN2",
+          "Human gene stable ID": "ENSG00000168385",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN2"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Selenof",
+      "ncbi_gene_id": "113922",
+      "stable_ids": [
+        "ENSRNOG00000055257"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Selenof",
+          "Gene stable ID": "ENSRNOG00000055257",
+          "Human gene name": "SELENOF",
+          "Human gene stable ID": "ENSG00000183291",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SELENOF"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin8",
+      "ncbi_gene_id": "303135",
+      "stable_ids": [
+        "ENSRNOG00000007462"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin8",
+          "Gene stable ID": "ENSRNOG00000007462",
+          "Human gene name": "SEPTIN8",
+          "Human gene stable ID": "ENSG00000164402",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN8"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin11",
+      "ncbi_gene_id": "305227",
+      "stable_ids": [
+        "ENSRNOG00000002182"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin11",
+          "Gene stable ID": "ENSRNOG00000002182",
+          "Human gene name": "SEPTIN11",
+          "Human gene stable ID": "ENSG00000138758",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN11"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin10",
+      "ncbi_gene_id": "309891",
+      "stable_ids": [
+        "ENSRNOG00000049507"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin10",
+          "Gene stable ID": "ENSRNOG00000049507",
+          "Human gene name": "SEPTIN10",
+          "Human gene stable ID": "ENSG00000186522",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN10"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin9",
+      "ncbi_gene_id": "83788",
+      "stable_ids": [
+        "ENSRNOG00000002807"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin9",
+          "Gene stable ID": "ENSRNOG00000002807",
+          "Human gene name": "SEPTIN9",
+          "Human gene stable ID": "ENSG00000184640",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN9"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf8",
+      "ncbi_gene_id": "312656",
+      "stable_ids": [
+        "ENSRNOG00000012297"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf8",
+          "Gene stable ID": "ENSRNOG00000012297",
+          "Human gene name": "MARCHF8",
+          "Human gene stable ID": "ENSG00000165406",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF8"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin5",
+      "ncbi_gene_id": "116728",
+      "stable_ids": [
+        "ENSRNOG00000029912"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin5",
+          "Gene stable ID": "ENSRNOG00000029912",
+          "Human gene name": "SEPTIN5",
+          "Human gene stable ID": "ENSG00000184702",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN5"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin4",
+      "ncbi_gene_id": "287606",
+      "stable_ids": [
+        "ENSRNOG00000007367"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin4",
+          "Gene stable ID": "ENSRNOG00000007367",
+          "Human gene name": "",
+          "Human gene stable ID": "",
+          "Human homology type": "",
+          "Human orthology confidence [0 low, 1 high]": ""
+        }
+      ],
+      "accepted_human_symbols": [],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf2",
+      "ncbi_gene_id": "362849",
+      "stable_ids": [
+        "ENSRNOG00000007769"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf2",
+          "Gene stable ID": "ENSRNOG00000007769",
+          "Human gene name": "MARCHF2",
+          "Human gene stable ID": "ENSG00000099785",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF2"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Mtarc2",
+      "ncbi_gene_id": "171451",
+      "stable_ids": [
+        "ENSRNOG00000077900"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Mtarc2",
+          "Gene stable ID": "ENSRNOG00000077900",
+          "Human gene name": "MTARC2",
+          "Human gene stable ID": "ENSG00000117791",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MTARC2"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin7",
+      "ncbi_gene_id": "64551",
+      "stable_ids": [
+        "ENSRNOG00000006545"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin7",
+          "Gene stable ID": "ENSRNOG00000006545",
+          "Human gene name": "SEPTIN7",
+          "Human gene stable ID": "ENSG00000122545",
+          "Human homology type": "ortholog_one2many",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf5",
+      "ncbi_gene_id": "294079",
+      "stable_ids": [
+        "ENSRNOG00000017396"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf5",
+          "Gene stable ID": "ENSRNOG00000017396",
+          "Human gene name": "MARCHF5",
+          "Human gene stable ID": "ENSG00000198060",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF5"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf7",
+      "ncbi_gene_id": "311059",
+      "stable_ids": [
+        "ENSRNOG00000006241"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf7",
+          "Gene stable ID": "ENSRNOG00000006241",
+          "Human gene name": "MARCHF7",
+          "Human gene stable ID": "ENSG00000136536",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF7"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Mtarc1",
+      "ncbi_gene_id": "690745",
+      "stable_ids": [
+        "ENSRNOG00000037850"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Mtarc2",
+          "Gene stable ID": "ENSRNOG00000037850",
+          "Human gene name": "MTARC1",
+          "Human gene stable ID": "ENSG00000186205",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MTARC1"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin6",
+      "ncbi_gene_id": "691335",
+      "stable_ids": [
+        "ENSRNOG00000043182"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin6",
+          "Gene stable ID": "ENSRNOG00000043182",
+          "Human gene name": "SEPTIN6",
+          "Human gene stable ID": "ENSG00000125354",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN6"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf3",
+      "ncbi_gene_id": "364878",
+      "stable_ids": [
+        "ENSRNOG00000023013"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf3",
+          "Gene stable ID": "ENSRNOG00000023013",
+          "Human gene name": "MARCHF3",
+          "Human gene stable ID": "ENSG00000173926",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF3"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf9",
+      "ncbi_gene_id": "679272",
+      "stable_ids": [
+        "ENSRNOG00000046245"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf9",
+          "Gene stable ID": "ENSRNOG00000046245",
+          "Human gene name": "MARCHF9",
+          "Human gene stable ID": "ENSG00000139266",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF9"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin1",
+      "ncbi_gene_id": "293507",
+      "stable_ids": [
+        "ENSRNOG00000017804"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin1",
+          "Gene stable ID": "ENSRNOG00000017804",
+          "Human gene name": "SEPTIN1",
+          "Human gene stable ID": "ENSG00000180096",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN1"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf11",
+      "ncbi_gene_id": "499558",
+      "stable_ids": [
+        "ENSRNOG00000024461"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf11",
+          "Gene stable ID": "ENSRNOG00000024461",
+          "Human gene name": "MARCHF11",
+          "Human gene stable ID": "ENSG00000183654",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF11"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf10",
+      "ncbi_gene_id": "303596",
+      "stable_ids": [
+        "ENSRNOG00000007084"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf10",
+          "Gene stable ID": "ENSRNOG00000007084",
+          "Human gene name": "MARCHF10",
+          "Human gene stable ID": "ENSG00000173838",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF10"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Marchf1",
+      "ncbi_gene_id": "361135",
+      "stable_ids": [
+        "ENSRNOG00000026310"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Marchf1",
+          "Gene stable ID": "ENSRNOG00000026310",
+          "Human gene name": "MARCHF1",
+          "Human gene stable ID": "ENSG00000145416",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "MARCHF1"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin12",
+      "ncbi_gene_id": "363542",
+      "stable_ids": [
+        "ENSRNOG00000003137"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin12",
+          "Gene stable ID": "ENSRNOG00000003137",
+          "Human gene name": "SEPTIN12",
+          "Human gene stable ID": "ENSG00000140623",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN12"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin14",
+      "ncbi_gene_id": "689118",
+      "stable_ids": [
+        "ENSRNOG00000038495"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin14",
+          "Gene stable ID": "ENSRNOG00000038495",
+          "Human gene name": "SEPTIN14",
+          "Human gene stable ID": "ENSG00000154997",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "0"
+        }
+      ],
+      "accepted_human_symbols": [],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    },
+    {
+      "corrected_symbol": "Septin3",
+      "ncbi_gene_id": "56003",
+      "stable_ids": [
+        "ENSRNOG00000007686"
+      ],
+      "biomart_rows": [
+        {
+          "Gene name": "Septin3",
+          "Gene stable ID": "ENSRNOG00000007686",
+          "Human gene name": "SEPTIN3",
+          "Human gene stable ID": "ENSG00000100167",
+          "Human homology type": "ortholog_one2one",
+          "Human orthology confidence [0 low, 1 high]": "1"
+        }
+      ],
+      "accepted_human_symbols": [
+        "SEPTIN3"
+      ],
+      "join": "Stable Ensembl ID anchored by NCBI cross-reference; not a symbol-only join"
+    }
+  ],
+  "renal_human_DEG_count_before": 1285,
+  "renal_human_DEG_count_after": 1285,
+  "renal_candidate_gene_and_direction_sets_identical": true,
+  "unchanged_mapping_rows_preserved": true,
+  "mapping_scope": "Targeted current Ensembl lookup for the 25 repaired identities only; frozen mappings elsewhere unchanged. Apply original high-confidence one-to-one criterion. Do not force Septin4 into human mapping when no qualifying result is supplied."
+}

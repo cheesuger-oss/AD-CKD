@@ -1,0 +1,5 @@
+trait_label	window_id	hypothesis	posterior
+eGFRcys	egfrcys_W087	PP.H3	0.99876994930585
+Serum cystatin C	cystatin_c_W188	PP.H3	0.986873631479352
+eGFRcys	egfrcys_W087	PP.H4	0.000252750787739881
+Serum cystatin C	cystatin_c_W188	PP.H4	0.00115315691145215

@@ -1,0 +1,104 @@
+{
+  "status": "PASS_RECALCULATION_BASELINE_CHECKS_NOT_PACKAGE_RELEASE",
+  "checks": [
+    {
+      "analysis": "GSEA GO_BP",
+      "baseline_max_absolute_delta": {
+        "NES": 0.0,
+        "p.adjust": 0.0,
+        "pvalue": 0.0
+      }
+    },
+    {
+      "analysis": "GSEA KEGG",
+      "baseline_max_absolute_delta": {
+        "NES": 0.0,
+        "p.adjust": 0.0,
+        "pvalue": 0.0
+      }
+    },
+    {
+      "analysis": "rat immune scores",
+      "baseline_max_absolute_delta": {
+        "standardized_effect": 0.0,
+        "q_value": 1.0028870095490916e-18,
+        "mean_difference": 0.0
+      }
+    }
+  ],
+  "changes": [
+    {
+      "analysis": "GSEA GO_BP",
+      "tested_before": 4586,
+      "tested_after": 4590,
+      "BH_lt_005_before": 576,
+      "BH_lt_005_after": 644
+    },
+    {
+      "analysis": "GSEA KEGG",
+      "tested_before": 324,
+      "tested_after": 324,
+      "BH_lt_005_before": 55,
+      "BH_lt_005_after": 52
+    },
+    {
+      "analysis": "rat immune scores",
+      "BH_lt_005_before": 5,
+      "BH_lt_005_after": 5,
+      "programs_changing_BH_status": []
+    }
+  ],
+  "classifier_candidates": {
+    "count": 1285,
+    "ordered_identity_and_direction_unchanged": true,
+    "classifier_rerun_required": false,
+    "reason": "Model script builds features from the ordered human_gene list in unchanged human expression data; renal logFC and q are not model inputs. Renal direction labels unchanged."
+  },
+  "unaffected": [
+    "Mouse differential expression and exposed sensitivity model",
+    "Human six-programme GSEA",
+    "All MR/LDSC/colocalization analyses",
+    "Network node/edge inputs (gene sets unchanged)",
+    "Retrospective classifier fits and external cohorts"
+  ],
+  "pending": [
+    "Rebuild affected Source Data and figures",
+    "Synchronize tables/manuscript/reply values and correction disclosure",
+    "Nature and Light review on changed artifacts",
+    "Final package inventory and journal-specific guide"
+  ],
+  "result_files": {
+    "baseline_DEG.csv": "d3d14d223bfcd6a0dc0d9d7edf7728da8487df67a43b8c17610d071a52029a93",
+    "baseline_GO_BP_UREMIC.csv": "58763d482ba00a2bfc1f0b92b12b80de5991c2434ef7b94363914a9d3c1c1bc8",
+    "baseline_GSEA_GO_BP.csv": "275be647b8b0e4eb3cf312f125f918f6f7f0a5a0d3bf7a2dfaabf3f1950e677d",
+    "baseline_GSEA_KEGG.csv": "9a16af43f76d53bff33ec36a0db31af32eb9abe2568a86795594bee77e2515ef",
+    "baseline_GSEA_rank.csv": "8258097161e9be342e38813e48032676c0d01a0193c2219c002691c7683e9bcc",
+    "baseline_KEGG_UREMIC.csv": "e66e489348768f86ec773fdd59c956efeb91d6cc144a9778415804551b079e40",
+    "baseline_all_genes.csv": "9d84ab4f6ada69e97e3f1743d02c4c1b8dd3e2dae9da3cb55fb79029957b507f",
+    "baseline_expression_model.rds": "3f6ecfc80b2d533d73b515c4788bc215c9f660b09037a2b9d539a53db9287d12",
+    "baseline_immune_contrasts.tsv": "f3a751fe3b02cbdd7ab11731dd4a8b68aba21bdabf25d0e5f0072109781194b3",
+    "baseline_immune_scores.tsv": "7177b88a13cedf49e8a25db165789981c95a2e5c042afe911b9b33c4cbda9baa",
+    "baseline_reproduction.csv": "aeff4e4eb37bc69d9e40e5ad65ca46edf3155962e4d0c705d8d7ba9b8a9eb64a",
+    "baseline_shared_pathways.csv": "bab99d57c784b7de192db51acaf000ded6d0715f97d399449832ee14a997ab1b",
+    "candidate_rule_reexecution.md": "fdf6da6a0d62be764be75829cb832aa1022f796104e35dad3e6de3d07f4a7d93",
+    "corrected_DEG.csv": "fdcc9ee72c89022f51ba6458f66c40a3a5e5bdaf59dc8c207ff77bb82bcf0a46",
+    "corrected_GO_BP_UREMIC.csv": "8ad3ee90f6ba6ee6c8ffcabd02790968522d068a547017790e943c1c70fa7567",
+    "corrected_GSEA_GO_BP.csv": "055eaae299ac997e8d9053d023c3c51a76e33ce193776cc8d5ac08773a2bcbb8",
+    "corrected_GSEA_KEGG.csv": "75635e4ecaf2ef80e1eaa3d73588d6f09ec1fe90e6e05fcc94d6ea95cc87bb59",
+    "corrected_GSEA_rank.csv": "8494c69d98d9713ba8848e69ae60245e37da4f7a55704d018e6c80cb73606ed3",
+    "corrected_KEGG_UREMIC.csv": "17ae80f23a407a322883454440f372048fc93d346cfbe9d6185a538ef4ffd2dc",
+    "corrected_all_genes.csv": "d8cfd4b6d43b5a4a4eec74cf21134854856fc18ecccfd0dd574ebf56cd85a6bf",
+    "corrected_expression_model.rds": "f458b41d65c0e4b70dfced045d5ceec05792942fa7f9a9562267e378b8af988b",
+    "corrected_immune_contrasts.tsv": "35b17e6796ca39175e64772ffa477da4009cb8947357aa1efb8f98ebd64e1b12",
+    "corrected_immune_scores.tsv": "a6082867b59f223d78ed2def39df4a203556bbce193ad6f15b9eaaf6afd500e1",
+    "corrected_renal_origin_candidates.tsv": "7afa31c8353439e0f05cbb22565de4d15aa52808840adb104942e5eb99e7f497",
+    "corrected_shared_pathways.csv": "4548848eb776a3b743421c402ec710cb4e4b2a02e5ca7234ca43d5c1e0636b00",
+    "differential_all_gene_comparison.csv": "ca5fc089e466f8a1937bbb15596b10360ed632d0cf437ccd9bb7a5498ab19216",
+    "differential_change_summary.csv": "82dac17dc2c6e328870bbd64d9457e5c93f3f355b6e8a305697ae51da4a31cac",
+    "gsea_sessionInfo.txt": "6c112cfa19f6275369eb6cc8e883d98722b344d8b92bc3e6064b430802e831dd",
+    "immune_sessionInfo.txt": "2e7db49193205d456a3c2866557b21c2f518f6ca893a7413c0e025c25803d563",
+    "limma_sessionInfo.txt": "f2ec00af6a408f9c32338553d204f058c3e7a89c9b18ae62dc4e2f99fb696e79",
+    "ora_change_summary.csv": "d0ef25d7e87dcb6f0b3d9d1d1d1b6a05702e1bc0868c06e068fdddcf583b0f39",
+    "ora_sessionInfo.txt": "6c112cfa19f6275369eb6cc8e883d98722b344d8b92bc3e6064b430802e831dd"
+  }
+}

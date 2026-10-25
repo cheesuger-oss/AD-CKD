@@ -1,0 +1,7 @@
+row	group	n
+Uraemic calcification	Uremic	5
+Uraemic calcification	Untreated	5
+Experimental AAD	BAPN + AAD	16
+Experimental AAD	Untreated	20
+BAPN sensitivity	BAPN + AAD	16
+BAPN sensitivity	BAPN NonAD	12

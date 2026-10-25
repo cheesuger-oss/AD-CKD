@@ -1,0 +1,7 @@
+row	group	n
+Renal dysfunction	Uremic	5
+Renal dysfunction	Untreated	5
+Experimental AD	BAPN + AD	16
+Experimental AD	Untreated	20
+BAPN sensitivity	BAPN + AD	16
+BAPN sensitivity	BAPN, no AD	12

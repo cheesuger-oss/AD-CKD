@@ -1,0 +1,3 @@
+version,tested,DEG,up,down,control_n,case_n
+baseline,9813,1734,923,811,5,5
+corrected,9814,1734,923,811,5,5

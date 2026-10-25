@@ -1,0 +1,1738 @@
+[
+  {
+    "panel": "Figure1_A",
+    "output_path": "independent_panels/Figure1_A.pdf",
+    "output_sha256": "017c649c8ad8fe4103df8badfa130bc796b37dda6756d2064c13c43dfbc72b58",
+    "caption_path": "panel_captions/Figure1_full_caption.txt",
+    "caption_sha256": "edf790efe06a802d2cddc8f85bce00de0872db0c8a39cbd03892f2d21e1c81bf",
+    "claim": "Animal expression contrasts share a direction-aware orthologue overlap.",
+    "boundary": "Not independent replication or an isolated renal effect.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_A_design.tsv",
+        "sha256": "d2689f85d122b156582693f37f73a149261a0fd108b700a07a6589587862bcb6"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_B_renal_volcano.tsv",
+        "sha256": "ed480509f9e671ecfcefeb133255d7753ab5a15112b58fae2eea0de28a86ad73"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_C_AD_volcano.tsv",
+        "sha256": "0a87eb6cc90915f1b93c280640ffaa7100b7157f212853d4e896153fe4af3b59"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_direction_summary.tsv",
+        "sha256": "19cb3612a284bbc135f41dc4c9f4a9efff7f9f6ab9c55de4d573fa98f4ec2438"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_overlap.tsv",
+        "sha256": "1db52277e14eecb61ccde0aa01f19702c048f01488c27f9b7f9667e8109bd821"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data.tsv",
+        "sha256": "425004502b15fbd18c63e76a88030f0bc9c0b1678cdb4f35147aa055a1d34e72"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure1_B",
+    "output_path": "independent_panels/Figure1_B.pdf",
+    "output_sha256": "052d5bbf0773be62fdb342456ca7fd7144dfa87c27c0623c0d416500a0fd3263",
+    "caption_path": "panel_captions/Figure1_full_caption.txt",
+    "caption_sha256": "edf790efe06a802d2cddc8f85bce00de0872db0c8a39cbd03892f2d21e1c81bf",
+    "claim": "Animal expression contrasts share a direction-aware orthologue overlap.",
+    "boundary": "Not independent replication or an isolated renal effect.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_A_design.tsv",
+        "sha256": "d2689f85d122b156582693f37f73a149261a0fd108b700a07a6589587862bcb6"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_B_renal_volcano.tsv",
+        "sha256": "ed480509f9e671ecfcefeb133255d7753ab5a15112b58fae2eea0de28a86ad73"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_C_AD_volcano.tsv",
+        "sha256": "0a87eb6cc90915f1b93c280640ffaa7100b7157f212853d4e896153fe4af3b59"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_direction_summary.tsv",
+        "sha256": "19cb3612a284bbc135f41dc4c9f4a9efff7f9f6ab9c55de4d573fa98f4ec2438"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_overlap.tsv",
+        "sha256": "1db52277e14eecb61ccde0aa01f19702c048f01488c27f9b7f9667e8109bd821"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data.tsv",
+        "sha256": "425004502b15fbd18c63e76a88030f0bc9c0b1678cdb4f35147aa055a1d34e72"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure1_C",
+    "output_path": "independent_panels/Figure1_C.pdf",
+    "output_sha256": "3b55db9f60cd69d40ace03c8bc4821c0857f88d5c72ff03e02a435545e5fb303",
+    "caption_path": "panel_captions/Figure1_full_caption.txt",
+    "caption_sha256": "edf790efe06a802d2cddc8f85bce00de0872db0c8a39cbd03892f2d21e1c81bf",
+    "claim": "Animal expression contrasts share a direction-aware orthologue overlap.",
+    "boundary": "Not independent replication or an isolated renal effect.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_A_design.tsv",
+        "sha256": "d2689f85d122b156582693f37f73a149261a0fd108b700a07a6589587862bcb6"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_B_renal_volcano.tsv",
+        "sha256": "ed480509f9e671ecfcefeb133255d7753ab5a15112b58fae2eea0de28a86ad73"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_C_AD_volcano.tsv",
+        "sha256": "0a87eb6cc90915f1b93c280640ffaa7100b7157f212853d4e896153fe4af3b59"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_direction_summary.tsv",
+        "sha256": "19cb3612a284bbc135f41dc4c9f4a9efff7f9f6ab9c55de4d573fa98f4ec2438"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_overlap.tsv",
+        "sha256": "1db52277e14eecb61ccde0aa01f19702c048f01488c27f9b7f9667e8109bd821"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data.tsv",
+        "sha256": "425004502b15fbd18c63e76a88030f0bc9c0b1678cdb4f35147aa055a1d34e72"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure1_D",
+    "output_path": "independent_panels/Figure1_D.pdf",
+    "output_sha256": "05114e86024b3efdce6960fb6adfbdcbc78ac8f34ecb12ba8da06b755cb72453",
+    "caption_path": "panel_captions/Figure1_full_caption.txt",
+    "caption_sha256": "edf790efe06a802d2cddc8f85bce00de0872db0c8a39cbd03892f2d21e1c81bf",
+    "claim": "Animal expression contrasts share a direction-aware orthologue overlap.",
+    "boundary": "Not independent replication or an isolated renal effect.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_A_design.tsv",
+        "sha256": "d2689f85d122b156582693f37f73a149261a0fd108b700a07a6589587862bcb6"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_B_renal_volcano.tsv",
+        "sha256": "ed480509f9e671ecfcefeb133255d7753ab5a15112b58fae2eea0de28a86ad73"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_C_AD_volcano.tsv",
+        "sha256": "0a87eb6cc90915f1b93c280640ffaa7100b7157f212853d4e896153fe4af3b59"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_direction_summary.tsv",
+        "sha256": "19cb3612a284bbc135f41dc4c9f4a9efff7f9f6ab9c55de4d573fa98f4ec2438"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data_D_overlap.tsv",
+        "sha256": "1db52277e14eecb61ccde0aa01f19702c048f01488c27f9b7f9667e8109bd821"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure1_animal_transcriptomic_discovery_source_data.tsv",
+        "sha256": "425004502b15fbd18c63e76a88030f0bc9c0b1678cdb4f35147aa055a1d34e72"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure2_A",
+    "output_path": "independent_panels/Figure2_A.pdf",
+    "output_sha256": "3c6e119b5fd950401db8bb072f5e25775eb6fbf98620e9d49e39fa3f372ddf53",
+    "caption_path": "panel_captions/Figure2_full_caption.txt",
+    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
+    "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv",
+        "sha256": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv",
+        "sha256": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv",
+        "sha256": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv",
+        "sha256": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data.tsv",
+        "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure2_B",
+    "output_path": "independent_panels/Figure2_B.pdf",
+    "output_sha256": "86a7047d2535ab87395de855d4c0b3229351376986aa1c4deb090222e73460c8",
+    "caption_path": "panel_captions/Figure2_full_caption.txt",
+    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
+    "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv",
+        "sha256": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv",
+        "sha256": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv",
+        "sha256": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv",
+        "sha256": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data.tsv",
+        "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure2_C",
+    "output_path": "independent_panels/Figure2_C.pdf",
+    "output_sha256": "7af8b41bf761cb62e3b066fa824a746e8de6e29af0dbe0755fbdcf339ed0dc99",
+    "caption_path": "panel_captions/Figure2_full_caption.txt",
+    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
+    "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv",
+        "sha256": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv",
+        "sha256": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv",
+        "sha256": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv",
+        "sha256": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data.tsv",
+        "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure2_D",
+    "output_path": "independent_panels/Figure2_D.pdf",
+    "output_sha256": "f8c4bc56c794e8ef27ec2b83728b1f1fc5bdf2a39bdf0dd79f07f1fd95c2ecc3",
+    "caption_path": "panel_captions/Figure2_full_caption.txt",
+    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
+    "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv",
+        "sha256": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv",
+        "sha256": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv",
+        "sha256": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv",
+        "sha256": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data.tsv",
+        "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure3_A",
+    "output_path": "independent_panels/Figure3_A.pdf",
+    "output_sha256": "b243fb35b6d335110fcd5ffa540f5c3f6e7a02440389e01825a57d472cd8a396",
+    "caption_path": "panel_captions/Figure3_full_caption.txt",
+    "caption_sha256": "aedd26593d055dc1df0b99861180572562173e84a92d80aa776202cf31db347c",
+    "claim": "Genetic analyses constrain, rather than establish, the causal interpretation.",
+    "boundary": "Nonsignificant results are explicitly reported, not evidence of no effect. Retained under the user-approved scientific boundary; no positive causal claim.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_A_forward_MR.tsv",
+        "sha256": "e846c099a93e3dbfc82aac416f075b2d23573117330c52bc415cc09295ace162"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_B_MVMR.tsv",
+        "sha256": "cd4ee0262e839a745926e2ca4223782dafedacb718816c05bab80a95ebe1736b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_C_status.tsv",
+        "sha256": "2fc8ec08610ba71eaa2e16f4fac5e5cd4c70f626f6616418809b379bbd4f6d52"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data.tsv",
+        "sha256": "f384f4195f18431752c0c5dfd69830a5c7c79e996ebc476aa82a23429e514352"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure3_B",
+    "output_path": "independent_panels/Figure3_B.pdf",
+    "output_sha256": "cc5795bd2d0eb45b29bd4034a1e93da5f69fa50b9ba277ad93718400f9534a93",
+    "caption_path": "panel_captions/Figure3_full_caption.txt",
+    "caption_sha256": "aedd26593d055dc1df0b99861180572562173e84a92d80aa776202cf31db347c",
+    "claim": "Genetic analyses constrain, rather than establish, the causal interpretation.",
+    "boundary": "Nonsignificant results are explicitly reported, not evidence of no effect. Retained under the user-approved scientific boundary; no positive causal claim.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_A_forward_MR.tsv",
+        "sha256": "e846c099a93e3dbfc82aac416f075b2d23573117330c52bc415cc09295ace162"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_B_MVMR.tsv",
+        "sha256": "cd4ee0262e839a745926e2ca4223782dafedacb718816c05bab80a95ebe1736b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_C_status.tsv",
+        "sha256": "2fc8ec08610ba71eaa2e16f4fac5e5cd4c70f626f6616418809b379bbd4f6d52"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data.tsv",
+        "sha256": "f384f4195f18431752c0c5dfd69830a5c7c79e996ebc476aa82a23429e514352"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure3_C",
+    "output_path": "independent_panels/Figure3_C.pdf",
+    "output_sha256": "b5e8116dfca82eb6314ac13e18c9a0769515a5e9ff966e0a066aca38c314d73e",
+    "caption_path": "panel_captions/Figure3_full_caption.txt",
+    "caption_sha256": "aedd26593d055dc1df0b99861180572562173e84a92d80aa776202cf31db347c",
+    "claim": "Genetic analyses constrain, rather than establish, the causal interpretation.",
+    "boundary": "Nonsignificant results are explicitly reported, not evidence of no effect. Retained under the user-approved scientific boundary; no positive causal claim.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_A_forward_MR.tsv",
+        "sha256": "e846c099a93e3dbfc82aac416f075b2d23573117330c52bc415cc09295ace162"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_B_MVMR.tsv",
+        "sha256": "cd4ee0262e839a745926e2ca4223782dafedacb718816c05bab80a95ebe1736b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data_C_status.tsv",
+        "sha256": "2fc8ec08610ba71eaa2e16f4fac5e5cd4c70f626f6616418809b379bbd4f6d52"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Figure3_genetic_evidence_boundary_source_data.tsv",
+        "sha256": "f384f4195f18431752c0c5dfd69830a5c7c79e996ebc476aa82a23429e514352"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure4_A",
+    "output_path": "independent_panels/Figure4_A.pdf",
+    "output_sha256": "2708140b1701496794880355141361f9359123cad41eb2792edd1d1d961bddeb",
+    "caption_path": "panel_captions/Figure4_full_caption.txt",
+    "caption_sha256": "5c36b35ae2938ecadba6d695a0dcd56cc9b0a07e3c7055f46b52e36d5f114d31",
+    "claim": "Immune and classifier support does not transfer consistently.",
+    "boundary": "Wald intervals differ from limma/BH inference; preprocessing is cohort-wide; GSE147026 is not evaluable, not a negative validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_A_immune.tsv",
+        "sha256": "734f2b76e6c78580219156c03ffe6cdbe0598177aea1c0bb3a29d9690e09da74"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_B_random_auc.tsv",
+        "sha256": "2b36fd333c616f8d2605b878adec51816f692686cac35bb798cec8113c91bc34"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_C_external.tsv",
+        "sha256": "efa6e4f426809c924046e03f0933f50e78fbc18e5c7a538a8976bce4d4b26adf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data.tsv",
+        "sha256": "f0df49e16e96aa6b4a5ebd4b7f0bd4e605800d9f7315cf80fd9ef984a2b5c646"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure4_B",
+    "output_path": "independent_panels/Figure4_B.pdf",
+    "output_sha256": "bb1994d05040073d1224c15a5cfb29ce28c1a227bc52687c79d0ed93aa829858",
+    "caption_path": "panel_captions/Figure4_full_caption.txt",
+    "caption_sha256": "5c36b35ae2938ecadba6d695a0dcd56cc9b0a07e3c7055f46b52e36d5f114d31",
+    "claim": "Immune and classifier support does not transfer consistently.",
+    "boundary": "Wald intervals differ from limma/BH inference; preprocessing is cohort-wide; GSE147026 is not evaluable, not a negative validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_A_immune.tsv",
+        "sha256": "734f2b76e6c78580219156c03ffe6cdbe0598177aea1c0bb3a29d9690e09da74"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_B_random_auc.tsv",
+        "sha256": "2b36fd333c616f8d2605b878adec51816f692686cac35bb798cec8113c91bc34"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_C_external.tsv",
+        "sha256": "efa6e4f426809c924046e03f0933f50e78fbc18e5c7a538a8976bce4d4b26adf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data.tsv",
+        "sha256": "f0df49e16e96aa6b4a5ebd4b7f0bd4e605800d9f7315cf80fd9ef984a2b5c646"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "Figure4_C",
+    "output_path": "independent_panels/Figure4_C.pdf",
+    "output_sha256": "669fa3265bfab3d65bb22d2b266dcce81a184c321205b91f8cce5b1c101b06a8",
+    "caption_path": "panel_captions/Figure4_full_caption.txt",
+    "caption_sha256": "5c36b35ae2938ecadba6d695a0dcd56cc9b0a07e3c7055f46b52e36d5f114d31",
+    "claim": "Immune and classifier support does not transfer consistently.",
+    "boundary": "Wald intervals differ from limma/BH inference; preprocessing is cohort-wide; GSE147026 is not evaluable, not a negative validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_A_immune.tsv",
+        "sha256": "734f2b76e6c78580219156c03ffe6cdbe0598177aea1c0bb3a29d9690e09da74"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_B_random_auc.tsv",
+        "sha256": "2b36fd333c616f8d2605b878adec51816f692686cac35bb798cec8113c91bc34"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data_C_external.tsv",
+        "sha256": "efa6e4f426809c924046e03f0933f50e78fbc18e5c7a538a8976bce4d4b26adf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure4_immune_classifier_robustness_source_data.tsv",
+        "sha256": "f0df49e16e96aa6b4a5ebd4b7f0bd4e605800d9f7315cf80fd9ef984a2b5c646"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS1_A",
+    "output_path": "independent_panels/FigureS1_A.pdf",
+    "output_sha256": "960d5e1a9fbd824621556e21490172658121b35f5c99a04d9c31036ad788c2ec",
+    "caption_path": "panel_captions/S1_full_caption.txt",
+    "caption_sha256": "63c08bd1f2ad5bb894243d80d5208b5f0bd7faf3d077133eb389775de05592be",
+    "claim": "Animal QC describes the analysed samples and model diagnostics.",
+    "boundary": "Different correlation scales disclosed. Rat sex metadata gap is not unknown biological sex.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv",
+        "sha256": "e03cd0371520ade6e029e534c87ac775037f6a17d3bbe525c16ea6e26a1a761b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv",
+        "sha256": "2c6bf9fc8e891ed81a6c2322fef9332c9c0bef9c1bea4818272105d68ca54314"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv",
+        "sha256": "d199e6c87f5d6946b1f39d96425c90159c44a80189858c87836e873a1c32c5cf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv",
+        "sha256": "c7e1fa03e5f377255c58779400c454d0a8283c98f32b965f69ea6c1b9eef5bdf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv",
+        "sha256": "e3f692cc45771310cab048031c9db7c4cfd7bb35dcf7a0b1b0cc4e75e13f1105"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv",
+        "sha256": "d795b8962c8b0b18dbf117ee0f0d68634d3d6b0c3f0988623d649aacce93b650"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data.tsv",
+        "sha256": "4ac477ba2172595b525bfe51a16b17f0e1a24969437f3d46683dcc080da55bbc"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS1_B",
+    "output_path": "independent_panels/FigureS1_B.pdf",
+    "output_sha256": "1560459e30f3f7c1d71102ca4058c750016ab66e6894b8ff277c9d848efe9f36",
+    "caption_path": "panel_captions/S1_full_caption.txt",
+    "caption_sha256": "63c08bd1f2ad5bb894243d80d5208b5f0bd7faf3d077133eb389775de05592be",
+    "claim": "Animal QC describes the analysed samples and model diagnostics.",
+    "boundary": "Different correlation scales disclosed. Rat sex metadata gap is not unknown biological sex.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv",
+        "sha256": "e03cd0371520ade6e029e534c87ac775037f6a17d3bbe525c16ea6e26a1a761b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv",
+        "sha256": "2c6bf9fc8e891ed81a6c2322fef9332c9c0bef9c1bea4818272105d68ca54314"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv",
+        "sha256": "d199e6c87f5d6946b1f39d96425c90159c44a80189858c87836e873a1c32c5cf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv",
+        "sha256": "c7e1fa03e5f377255c58779400c454d0a8283c98f32b965f69ea6c1b9eef5bdf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv",
+        "sha256": "e3f692cc45771310cab048031c9db7c4cfd7bb35dcf7a0b1b0cc4e75e13f1105"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv",
+        "sha256": "d795b8962c8b0b18dbf117ee0f0d68634d3d6b0c3f0988623d649aacce93b650"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data.tsv",
+        "sha256": "4ac477ba2172595b525bfe51a16b17f0e1a24969437f3d46683dcc080da55bbc"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS1_C",
+    "output_path": "independent_panels/FigureS1_C.pdf",
+    "output_sha256": "3d78e90ecdabba3bedc76be6791121b2efe47fa197447552de6cdc500d4db6a1",
+    "caption_path": "panel_captions/S1_full_caption.txt",
+    "caption_sha256": "63c08bd1f2ad5bb894243d80d5208b5f0bd7faf3d077133eb389775de05592be",
+    "claim": "Animal QC describes the analysed samples and model diagnostics.",
+    "boundary": "Different correlation scales disclosed. Rat sex metadata gap is not unknown biological sex.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv",
+        "sha256": "e03cd0371520ade6e029e534c87ac775037f6a17d3bbe525c16ea6e26a1a761b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv",
+        "sha256": "2c6bf9fc8e891ed81a6c2322fef9332c9c0bef9c1bea4818272105d68ca54314"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv",
+        "sha256": "d199e6c87f5d6946b1f39d96425c90159c44a80189858c87836e873a1c32c5cf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv",
+        "sha256": "c7e1fa03e5f377255c58779400c454d0a8283c98f32b965f69ea6c1b9eef5bdf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv",
+        "sha256": "e3f692cc45771310cab048031c9db7c4cfd7bb35dcf7a0b1b0cc4e75e13f1105"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv",
+        "sha256": "d795b8962c8b0b18dbf117ee0f0d68634d3d6b0c3f0988623d649aacce93b650"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data.tsv",
+        "sha256": "4ac477ba2172595b525bfe51a16b17f0e1a24969437f3d46683dcc080da55bbc"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS1_D",
+    "output_path": "independent_panels/FigureS1_D.pdf",
+    "output_sha256": "a2cbd25a7935b29bd4f23abf0a59737428440c9e12d7af3fb02b8faff693e02f",
+    "caption_path": "panel_captions/S1_full_caption.txt",
+    "caption_sha256": "63c08bd1f2ad5bb894243d80d5208b5f0bd7faf3d077133eb389775de05592be",
+    "claim": "Animal QC describes the analysed samples and model diagnostics.",
+    "boundary": "Different correlation scales disclosed. Rat sex metadata gap is not unknown biological sex.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv",
+        "sha256": "e03cd0371520ade6e029e534c87ac775037f6a17d3bbe525c16ea6e26a1a761b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv",
+        "sha256": "2c6bf9fc8e891ed81a6c2322fef9332c9c0bef9c1bea4818272105d68ca54314"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv",
+        "sha256": "d199e6c87f5d6946b1f39d96425c90159c44a80189858c87836e873a1c32c5cf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv",
+        "sha256": "c7e1fa03e5f377255c58779400c454d0a8283c98f32b965f69ea6c1b9eef5bdf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv",
+        "sha256": "e3f692cc45771310cab048031c9db7c4cfd7bb35dcf7a0b1b0cc4e75e13f1105"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv",
+        "sha256": "d795b8962c8b0b18dbf117ee0f0d68634d3d6b0c3f0988623d649aacce93b650"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data.tsv",
+        "sha256": "4ac477ba2172595b525bfe51a16b17f0e1a24969437f3d46683dcc080da55bbc"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS1_E",
+    "output_path": "independent_panels/FigureS1_E.pdf",
+    "output_sha256": "dbf29cf1443064ba0c99285333b6420dd2e5f4273843c12a2e8ac26ce9cdbe61",
+    "caption_path": "panel_captions/S1_full_caption.txt",
+    "caption_sha256": "63c08bd1f2ad5bb894243d80d5208b5f0bd7faf3d077133eb389775de05592be",
+    "claim": "Animal QC describes the analysed samples and model diagnostics.",
+    "boundary": "Different correlation scales disclosed. Rat sex metadata gap is not unknown biological sex.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_A_PCA.tsv",
+        "sha256": "e03cd0371520ade6e029e534c87ac775037f6a17d3bbe525c16ea6e26a1a761b"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_B_PCA.tsv",
+        "sha256": "2c6bf9fc8e891ed81a6c2322fef9332c9c0bef9c1bea4818272105d68ca54314"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_C_correlation.tsv",
+        "sha256": "d199e6c87f5d6946b1f39d96425c90159c44a80189858c87836e873a1c32c5cf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_D_correlation.tsv",
+        "sha256": "c7e1fa03e5f377255c58779400c454d0a8283c98f32b965f69ea6c1b9eef5bdf"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_points.tsv",
+        "sha256": "e3f692cc45771310cab048031c9db7c4cfd7bb35dcf7a0b1b0cc4e75e13f1105"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data_E_voom_line.tsv",
+        "sha256": "d795b8962c8b0b18dbf117ee0f0d68634d3d6b0c3f0988623d649aacce93b650"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S1_animal_QC_source_data.tsv",
+        "sha256": "4ac477ba2172595b525bfe51a16b17f0e1a24969437f3d46683dcc080da55bbc"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS2_A",
+    "output_path": "independent_panels/FigureS2_A.pdf",
+    "output_sha256": "446d0dabedf396702112e98b3d2ca0143152ab7a24e48a3c28c5d8df4601d17b",
+    "caption_path": "panel_captions/S2_full_caption.txt",
+    "caption_sha256": "a4d97fcc5f10bea077782a81f45728bbfc857fbcc0d904d90d2129b2760bdd94",
+    "claim": "Expression and exposure-matched analyses describe heterogeneity.",
+    "boundary": "Selected heatmaps and shared cases do not provide independent validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_A_heatmap.tsv",
+        "sha256": "808e9c08acd0194bc8b1bacef36b5fb928b0e832b7f412aa2af190d98ddcbe53"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_B_heatmap.tsv",
+        "sha256": "154a6e7e3cbdc69aad01a46d1dfc66d09cc1729e432aacc2c061cfb25aab03c0"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_C_sensitivity_volcano.tsv",
+        "sha256": "d2ee9566329fb8e4c7e4d204b044801ecce942ee1784d2d10e839f41fa053dec"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_D_effect_comparison.tsv",
+        "sha256": "60540b4e220dad5d29140b0202bcbeef9df3be2ba51f1a07a0664509b85c1ee9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data.tsv",
+        "sha256": "01c467802882befea320f3a69dfd60a14a1412ebcc536f0fee174a07dad8c171"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS2_B",
+    "output_path": "independent_panels/FigureS2_B.pdf",
+    "output_sha256": "6444681113ee9f1686faeb5d02ad85149fc08b4a4f1b662d9aa425a8e279f537",
+    "caption_path": "panel_captions/S2_full_caption.txt",
+    "caption_sha256": "a4d97fcc5f10bea077782a81f45728bbfc857fbcc0d904d90d2129b2760bdd94",
+    "claim": "Expression and exposure-matched analyses describe heterogeneity.",
+    "boundary": "Selected heatmaps and shared cases do not provide independent validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_A_heatmap.tsv",
+        "sha256": "808e9c08acd0194bc8b1bacef36b5fb928b0e832b7f412aa2af190d98ddcbe53"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_B_heatmap.tsv",
+        "sha256": "154a6e7e3cbdc69aad01a46d1dfc66d09cc1729e432aacc2c061cfb25aab03c0"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_C_sensitivity_volcano.tsv",
+        "sha256": "d2ee9566329fb8e4c7e4d204b044801ecce942ee1784d2d10e839f41fa053dec"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_D_effect_comparison.tsv",
+        "sha256": "60540b4e220dad5d29140b0202bcbeef9df3be2ba51f1a07a0664509b85c1ee9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data.tsv",
+        "sha256": "01c467802882befea320f3a69dfd60a14a1412ebcc536f0fee174a07dad8c171"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS2_C",
+    "output_path": "independent_panels/FigureS2_C.pdf",
+    "output_sha256": "6ec16e9ed4836bc8a7691d6d64e978a008bdebbbe955e0f670e2651ef3915e97",
+    "caption_path": "panel_captions/S2_full_caption.txt",
+    "caption_sha256": "a4d97fcc5f10bea077782a81f45728bbfc857fbcc0d904d90d2129b2760bdd94",
+    "claim": "Expression and exposure-matched analyses describe heterogeneity.",
+    "boundary": "Selected heatmaps and shared cases do not provide independent validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_A_heatmap.tsv",
+        "sha256": "808e9c08acd0194bc8b1bacef36b5fb928b0e832b7f412aa2af190d98ddcbe53"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_B_heatmap.tsv",
+        "sha256": "154a6e7e3cbdc69aad01a46d1dfc66d09cc1729e432aacc2c061cfb25aab03c0"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_C_sensitivity_volcano.tsv",
+        "sha256": "d2ee9566329fb8e4c7e4d204b044801ecce942ee1784d2d10e839f41fa053dec"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_D_effect_comparison.tsv",
+        "sha256": "60540b4e220dad5d29140b0202bcbeef9df3be2ba51f1a07a0664509b85c1ee9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data.tsv",
+        "sha256": "01c467802882befea320f3a69dfd60a14a1412ebcc536f0fee174a07dad8c171"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS2_D",
+    "output_path": "independent_panels/FigureS2_D.pdf",
+    "output_sha256": "500f0946651f5e9d5d1b7482570fd4a01db313847ebcc3bf96efc6700a8a855b",
+    "caption_path": "panel_captions/S2_full_caption.txt",
+    "caption_sha256": "a4d97fcc5f10bea077782a81f45728bbfc857fbcc0d904d90d2129b2760bdd94",
+    "claim": "Expression and exposure-matched analyses describe heterogeneity.",
+    "boundary": "Selected heatmaps and shared cases do not provide independent validation.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_A_heatmap.tsv",
+        "sha256": "808e9c08acd0194bc8b1bacef36b5fb928b0e832b7f412aa2af190d98ddcbe53"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_B_heatmap.tsv",
+        "sha256": "154a6e7e3cbdc69aad01a46d1dfc66d09cc1729e432aacc2c061cfb25aab03c0"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_C_sensitivity_volcano.tsv",
+        "sha256": "d2ee9566329fb8e4c7e4d204b044801ecce942ee1784d2d10e839f41fa053dec"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data_D_effect_comparison.tsv",
+        "sha256": "60540b4e220dad5d29140b0202bcbeef9df3be2ba51f1a07a0664509b85c1ee9"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S2_animal_expression_detail_source_data.tsv",
+        "sha256": "01c467802882befea320f3a69dfd60a14a1412ebcc536f0fee174a07dad8c171"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_A",
+    "output_path": "independent_panels/FigureS3_A.pdf",
+    "output_sha256": "2fa8da082b2eba37d8dfd45869d063d9cabbc8344eea6789355e6eff9fa7a433",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_B",
+    "output_path": "independent_panels/FigureS3_B.pdf",
+    "output_sha256": "4ba641f6e6d0f37f0d6e5272a580b1734c629f658d0c8272184649634c411190",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_C",
+    "output_path": "independent_panels/FigureS3_C.pdf",
+    "output_sha256": "ac9421a69f38d2bbbc613a26bc8b422e42135b3cdd357acc4e9db0497f8c10a0",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_D",
+    "output_path": "independent_panels/FigureS3_D.pdf",
+    "output_sha256": "6325a9d111ddc393dea93b6c9c6fe52e48c679f770c46d5f0e9e6c4ebda083e9",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_E",
+    "output_path": "independent_panels/FigureS3_E.pdf",
+    "output_sha256": "86fb699872e9b8f143ebf40307ccca65f41125d8256849a1e637c50a6f49bb4a",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS3_F",
+    "output_path": "independent_panels/FigureS3_F.pdf",
+    "output_sha256": "0ff9f88fe26b0f6e13c8599ff55eb8d7215a6ce8dcbff542789a147a2e3a10fc",
+    "caption_path": "panel_captions/S3_full_caption.txt",
+    "caption_sha256": "58fad10c83f9ee79e0a076c08db947ba3ca68e5e5c322f516b68981a671f2982",
+    "claim": "Deterministically selected enrichment summaries describe animal programmes.",
+    "boundary": "Selection is post-analysis; infection-labelled gene sets do not diagnose infection.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/journal_figure_candidate/figures/S3_publication_layout_source.json",
+        "sha256": "f6b64ab7112aa42ad29f295a48180371f009bf3b574edfb51e0d84a19dc4db11"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4a_A",
+    "output_path": "independent_panels/FigureS4a_A.pdf",
+    "output_sha256": "7b65fe18a7edccbe679cb9cbc42ef9a3402308cfece9118a2b47218c9b054f88",
+    "caption_path": "panel_captions/S4a_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Human AAD expression structure is descriptive.",
+    "boundary": "10 versus 10; selected heatmap is not independent classification.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_pca.tsv",
+        "sha256": "83bfd27aded86b8e0bc3a11dd6fe994b1c6a1cb8f45d61556cef1b5fbdc06a0c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_cor.tsv",
+        "sha256": "17eaa6230fcc667990b8f075d62d66d596c6fc89acd8731895535f9b0634422d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_volcano.tsv",
+        "sha256": "dfe3c7afa661d019f29311f75bc713ad6c1df713d7e2f62bcc55ca36fb9b8718"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_heat.tsv",
+        "sha256": "05777d9fc2b99d9f4596236843100d18289c22550285acf9ea30512579dff969"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4a_B",
+    "output_path": "independent_panels/FigureS4a_B.pdf",
+    "output_sha256": "8e86ddb390ecdab73e4e306a7e64ed61a98b8115453629215523f5e8413b4d84",
+    "caption_path": "panel_captions/S4a_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Human AAD expression structure is descriptive.",
+    "boundary": "10 versus 10; selected heatmap is not independent classification.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_pca.tsv",
+        "sha256": "83bfd27aded86b8e0bc3a11dd6fe994b1c6a1cb8f45d61556cef1b5fbdc06a0c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_cor.tsv",
+        "sha256": "17eaa6230fcc667990b8f075d62d66d596c6fc89acd8731895535f9b0634422d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_volcano.tsv",
+        "sha256": "dfe3c7afa661d019f29311f75bc713ad6c1df713d7e2f62bcc55ca36fb9b8718"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_heat.tsv",
+        "sha256": "05777d9fc2b99d9f4596236843100d18289c22550285acf9ea30512579dff969"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4a_C",
+    "output_path": "independent_panels/FigureS4a_C.pdf",
+    "output_sha256": "41e74f59e3dc8dc3bc33b4b7494cfaecb32b7eb123d03515ef5a45e99f24a300",
+    "caption_path": "panel_captions/S4a_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Human AAD expression structure is descriptive.",
+    "boundary": "10 versus 10; selected heatmap is not independent classification.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_pca.tsv",
+        "sha256": "83bfd27aded86b8e0bc3a11dd6fe994b1c6a1cb8f45d61556cef1b5fbdc06a0c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_cor.tsv",
+        "sha256": "17eaa6230fcc667990b8f075d62d66d596c6fc89acd8731895535f9b0634422d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_volcano.tsv",
+        "sha256": "dfe3c7afa661d019f29311f75bc713ad6c1df713d7e2f62bcc55ca36fb9b8718"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_heat.tsv",
+        "sha256": "05777d9fc2b99d9f4596236843100d18289c22550285acf9ea30512579dff969"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4a_D",
+    "output_path": "independent_panels/FigureS4a_D.pdf",
+    "output_sha256": "d77067c076b744039813670b143949d642ddf058cd5860a227842346ca07dc7c",
+    "caption_path": "panel_captions/S4a_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Human AAD expression structure is descriptive.",
+    "boundary": "10 versus 10; selected heatmap is not independent classification.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_pca.tsv",
+        "sha256": "83bfd27aded86b8e0bc3a11dd6fe994b1c6a1cb8f45d61556cef1b5fbdc06a0c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_cor.tsv",
+        "sha256": "17eaa6230fcc667990b8f075d62d66d596c6fc89acd8731895535f9b0634422d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_volcano.tsv",
+        "sha256": "dfe3c7afa661d019f29311f75bc713ad6c1df713d7e2f62bcc55ca36fb9b8718"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4a_source_data_heat.tsv",
+        "sha256": "05777d9fc2b99d9f4596236843100d18289c22550285acf9ea30512579dff969"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4b_A",
+    "output_path": "independent_panels/FigureS4b_A.pdf",
+    "output_sha256": "7ab5f386b0c5a93e30eac7706a3e4a69df97d63cfc94925ee86ddb45c177c773",
+    "caption_path": "panel_captions/S4b_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Cross-site human uraemic expression structure is descriptive.",
+    "boundary": "15 versus 19; disease and arterial site fully confounded.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_pca.tsv",
+        "sha256": "c90e477eb8e92a3d89eb54f9e6fe6431fbdbe1417cdf751e4d6873d6b784f152"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_cor.tsv",
+        "sha256": "05590a78cbaf8d00cc7319a22dfaaba0c75a274f583590a1467b2bceca5cad05"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_volcano.tsv",
+        "sha256": "a7f36eaccaf641a18df5ca2dd4c0b043fc36246702d06d4a4cfddf049eafe237"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_heat.tsv",
+        "sha256": "3624dd7ff0127c53e9c02d560abd7ef02e71d81cfaa5a64b39249fddd786baa9"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4b_B",
+    "output_path": "independent_panels/FigureS4b_B.pdf",
+    "output_sha256": "b39f01f109a64f0fd179ffa2362867d42889b014d3d12bd535ef861c855456e2",
+    "caption_path": "panel_captions/S4b_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Cross-site human uraemic expression structure is descriptive.",
+    "boundary": "15 versus 19; disease and arterial site fully confounded.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_pca.tsv",
+        "sha256": "c90e477eb8e92a3d89eb54f9e6fe6431fbdbe1417cdf751e4d6873d6b784f152"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_cor.tsv",
+        "sha256": "05590a78cbaf8d00cc7319a22dfaaba0c75a274f583590a1467b2bceca5cad05"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_volcano.tsv",
+        "sha256": "a7f36eaccaf641a18df5ca2dd4c0b043fc36246702d06d4a4cfddf049eafe237"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_heat.tsv",
+        "sha256": "3624dd7ff0127c53e9c02d560abd7ef02e71d81cfaa5a64b39249fddd786baa9"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4b_C",
+    "output_path": "independent_panels/FigureS4b_C.pdf",
+    "output_sha256": "cb1b3e1c677fe19c1ba72db0a9844f16df5477dcf8fe544549b33b9dfd36752b",
+    "caption_path": "panel_captions/S4b_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Cross-site human uraemic expression structure is descriptive.",
+    "boundary": "15 versus 19; disease and arterial site fully confounded.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_pca.tsv",
+        "sha256": "c90e477eb8e92a3d89eb54f9e6fe6431fbdbe1417cdf751e4d6873d6b784f152"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_cor.tsv",
+        "sha256": "05590a78cbaf8d00cc7319a22dfaaba0c75a274f583590a1467b2bceca5cad05"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_volcano.tsv",
+        "sha256": "a7f36eaccaf641a18df5ca2dd4c0b043fc36246702d06d4a4cfddf049eafe237"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_heat.tsv",
+        "sha256": "3624dd7ff0127c53e9c02d560abd7ef02e71d81cfaa5a64b39249fddd786baa9"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS4b_D",
+    "output_path": "independent_panels/FigureS4b_D.pdf",
+    "output_sha256": "1955c783fcda98a758836a5c9f58e1791a1e1987dced7c3453c731bc81604f45",
+    "caption_path": "panel_captions/S4b_full_caption.txt",
+    "caption_sha256": "4c875853bbf7b37d6047891b945f7911c577353665c6acf25d768c854768c9ec",
+    "claim": "Cross-site human uraemic expression structure is descriptive.",
+    "boundary": "15 versus 19; disease and arterial site fully confounded.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_pca.tsv",
+        "sha256": "c90e477eb8e92a3d89eb54f9e6fe6431fbdbe1417cdf751e4d6873d6b784f152"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_cor.tsv",
+        "sha256": "05590a78cbaf8d00cc7319a22dfaaba0c75a274f583590a1467b2bceca5cad05"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_volcano.tsv",
+        "sha256": "a7f36eaccaf641a18df5ca2dd4c0b043fc36246702d06d4a4cfddf049eafe237"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S4b_source_data_heat.tsv",
+        "sha256": "3624dd7ff0127c53e9c02d560abd7ef02e71d81cfaa5a64b39249fddd786baa9"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5a_A",
+    "output_path": "independent_panels/FigureS5a_A.pdf",
+    "output_sha256": "5f21de1179b631536b144f74a0b40eb6fe6b1998c374fdee2389d623cfcac1d7",
+    "caption_path": "panel_captions/S5a_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "Primary MR diagnostics expose estimation uncertainty.",
+    "boundary": "264 instruments; precision plot does not prove absence of pleiotropy.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_methods.tsv",
+        "sha256": "b0dcf8f70836a5b601e02fd3b372b2c30cfae5f25907a59850d35a7570c98fb2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_leave_one_out.tsv",
+        "sha256": "98f1476fcb071780c429483f9f9b189b21c96e6f096e6ac3c377e6dcdcb46fad"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_single_snp.tsv",
+        "sha256": "6a30ba66be8797a0e096019b7a1918ff84aff02290c179ce2426f5c4493e5d36"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5a_B",
+    "output_path": "independent_panels/FigureS5a_B.pdf",
+    "output_sha256": "668dd26e0782325722d9ca6f8a7bf55e634c584f4584ce0efd10fcdcae84c3c7",
+    "caption_path": "panel_captions/S5a_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "Primary MR diagnostics expose estimation uncertainty.",
+    "boundary": "264 instruments; precision plot does not prove absence of pleiotropy.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_methods.tsv",
+        "sha256": "b0dcf8f70836a5b601e02fd3b372b2c30cfae5f25907a59850d35a7570c98fb2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_leave_one_out.tsv",
+        "sha256": "98f1476fcb071780c429483f9f9b189b21c96e6f096e6ac3c377e6dcdcb46fad"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_single_snp.tsv",
+        "sha256": "6a30ba66be8797a0e096019b7a1918ff84aff02290c179ce2426f5c4493e5d36"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5a_C",
+    "output_path": "independent_panels/FigureS5a_C.pdf",
+    "output_sha256": "c7bb3a6e0a5c5e5df4b3df0b3a5228f0b54de8289bcaa601b82876950ad41984",
+    "caption_path": "panel_captions/S5a_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "Primary MR diagnostics expose estimation uncertainty.",
+    "boundary": "264 instruments; precision plot does not prove absence of pleiotropy.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_methods.tsv",
+        "sha256": "b0dcf8f70836a5b601e02fd3b372b2c30cfae5f25907a59850d35a7570c98fb2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_leave_one_out.tsv",
+        "sha256": "98f1476fcb071780c429483f9f9b189b21c96e6f096e6ac3c377e6dcdcb46fad"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5a_source_data_single_snp.tsv",
+        "sha256": "6a30ba66be8797a0e096019b7a1918ff84aff02290c179ce2426f5c4493e5d36"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5b_A",
+    "output_path": "independent_panels/FigureS5b_A.pdf",
+    "output_sha256": "7b36b0a87c5e79e3d9cc0b135f131faf2670152f4419b4d01c745aa6ff2d08d4",
+    "caption_path": "panel_captions/S5b_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "Exploratory aneurysm outcomes remain distinct from primary dissection.",
+    "boundary": "Not a replacement outcome or upgraded causal claim.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5b_source_data_expanded_outcomes.tsv",
+        "sha256": "3c4caea74c1244b0d0e2d9ec4ceeb201fb076b6675a55317b0c3b6961b10460d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5b_source_data_qc.tsv",
+        "sha256": "082d1c653f4e0f9ac39cab85b98bf42fe9e59789a6d0a327600b2b802ec36356"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5b_B",
+    "output_path": "independent_panels/FigureS5b_B.pdf",
+    "output_sha256": "b0de04f601b12bfab8c6dc2e1c67e88f8f2a0fb3e96eb1cfa1721bd56fff9228",
+    "caption_path": "panel_captions/S5b_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "Exploratory aneurysm outcomes remain distinct from primary dissection.",
+    "boundary": "Not a replacement outcome or upgraded causal claim.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5b_source_data_expanded_outcomes.tsv",
+        "sha256": "3c4caea74c1244b0d0e2d9ec4ceeb201fb076b6675a55317b0c3b6961b10460d"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5b_source_data_qc.tsv",
+        "sha256": "082d1c653f4e0f9ac39cab85b98bf42fe9e59789a6d0a327600b2b802ec36356"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5c_A",
+    "output_path": "independent_panels/FigureS5c_A.pdf",
+    "output_sha256": "49d84d0095431db8c009380a07462cade38749f4fc08fd800e83f8630b76e67a",
+    "caption_path": "panel_captions/S5c_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "QC, prior sensitivity, model dependence and instrument limits differ.",
+    "boundary": "Full 0-1 probability axes; H3 restricted to the fitted regional single-variant model; Phet retained.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_ldsc.tsv",
+        "sha256": "f40e884788526451f2633d4576c26d4e9dfd106bfa9bce40a5100363ea881009"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr14.tsv",
+        "sha256": "6d2e977d944d1bb7636ff468a999e41cef55a77477304fd2d4872a4566869442"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr20.tsv",
+        "sha256": "8fb079028ec8f86504989f11922c4ffc916e84c67566ab7f190ddda7b48af5a2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_reverse_mr.tsv",
+        "sha256": "d18b64e0256f33f7159979a4322d63e1b1d09fafb93a8455a4d71c29ae27d586"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5c_B",
+    "output_path": "independent_panels/FigureS5c_B.pdf",
+    "output_sha256": "bcdfcaf230d4bf912fe22d797f08830a91a60218f8d45ae0f83c6b25d910d820",
+    "caption_path": "panel_captions/S5c_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "QC, prior sensitivity, model dependence and instrument limits differ.",
+    "boundary": "Full 0-1 probability axes; H3 restricted to the fitted regional single-variant model; Phet retained.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_ldsc.tsv",
+        "sha256": "f40e884788526451f2633d4576c26d4e9dfd106bfa9bce40a5100363ea881009"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr14.tsv",
+        "sha256": "6d2e977d944d1bb7636ff468a999e41cef55a77477304fd2d4872a4566869442"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr20.tsv",
+        "sha256": "8fb079028ec8f86504989f11922c4ffc916e84c67566ab7f190ddda7b48af5a2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_reverse_mr.tsv",
+        "sha256": "d18b64e0256f33f7159979a4322d63e1b1d09fafb93a8455a4d71c29ae27d586"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5c_C",
+    "output_path": "independent_panels/FigureS5c_C.pdf",
+    "output_sha256": "610ed65d28752744ec1695051e9fba064ed53af194437bf773ec44dfb0c82b9e",
+    "caption_path": "panel_captions/S5c_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "QC, prior sensitivity, model dependence and instrument limits differ.",
+    "boundary": "Full 0-1 probability axes; H3 restricted to the fitted regional single-variant model; Phet retained.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_ldsc.tsv",
+        "sha256": "f40e884788526451f2633d4576c26d4e9dfd106bfa9bce40a5100363ea881009"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr14.tsv",
+        "sha256": "6d2e977d944d1bb7636ff468a999e41cef55a77477304fd2d4872a4566869442"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr20.tsv",
+        "sha256": "8fb079028ec8f86504989f11922c4ffc916e84c67566ab7f190ddda7b48af5a2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_reverse_mr.tsv",
+        "sha256": "d18b64e0256f33f7159979a4322d63e1b1d09fafb93a8455a4d71c29ae27d586"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS5c_D",
+    "output_path": "independent_panels/FigureS5c_D.pdf",
+    "output_sha256": "4332079a1fd899170983627ac8388b336e01c5a95bf5186a939e9591fdebd6db",
+    "caption_path": "panel_captions/S5c_full_caption.txt",
+    "caption_sha256": "417df6f4da6a3c80b7c97469dd026b75a787f4de756ed0142d21bcab3f3956ed",
+    "claim": "QC, prior sensitivity, model dependence and instrument limits differ.",
+    "boundary": "Full 0-1 probability axes; H3 restricted to the fitted regional single-variant model; Phet retained.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_ldsc.tsv",
+        "sha256": "f40e884788526451f2633d4576c26d4e9dfd106bfa9bce40a5100363ea881009"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr14.tsv",
+        "sha256": "6d2e977d944d1bb7636ff468a999e41cef55a77477304fd2d4872a4566869442"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_chr20.tsv",
+        "sha256": "8fb079028ec8f86504989f11922c4ffc916e84c67566ab7f190ddda7b48af5a2"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S5c_source_data_reverse_mr.tsv",
+        "sha256": "d18b64e0256f33f7159979a4322d63e1b1d09fafb93a8455a4d71c29ae27d586"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS6_A",
+    "output_path": "independent_panels/FigureS6_A.pdf",
+    "output_sha256": "91edab0f6b5b128bd3b205c950e76a5813c33d7694a7fc9ada3982d5c1995c2c",
+    "caption_path": "panel_captions/S6_full_caption.txt",
+    "caption_sha256": "eec3afddc668c9bf7680b52e1089992ef4cf65182818baeba4103568c3163ebb",
+    "claim": "STRING coverage and topology are descriptive.",
+    "boundary": "579 union is different from the 549 animal overlap. Hubs do not identify causal targets.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_A_coverage.tsv",
+        "sha256": "59f01ebc914ea66e391158bc57ce75400694c30c5de62073c660736b0ab0518f"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_B_degree.tsv",
+        "sha256": "52816bbaf2eddda02677725634ec25e3d51b46031a6c7b68c0aa4231592d56df"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_C_enrichment.tsv",
+        "sha256": "bc0b581a0222b19f6dc704b6c5c316a6dbc92f0ae6fa91cca44084646f7250f6"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS6_B",
+    "output_path": "independent_panels/FigureS6_B.pdf",
+    "output_sha256": "6bbfd9ee7150f1c21600719e40ae7470d4f0630aabc72d26a559f224d3045ac0",
+    "caption_path": "panel_captions/S6_full_caption.txt",
+    "caption_sha256": "eec3afddc668c9bf7680b52e1089992ef4cf65182818baeba4103568c3163ebb",
+    "claim": "STRING coverage and topology are descriptive.",
+    "boundary": "579 union is different from the 549 animal overlap. Hubs do not identify causal targets.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_A_coverage.tsv",
+        "sha256": "59f01ebc914ea66e391158bc57ce75400694c30c5de62073c660736b0ab0518f"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_B_degree.tsv",
+        "sha256": "52816bbaf2eddda02677725634ec25e3d51b46031a6c7b68c0aa4231592d56df"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_C_enrichment.tsv",
+        "sha256": "bc0b581a0222b19f6dc704b6c5c316a6dbc92f0ae6fa91cca44084646f7250f6"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS6_C",
+    "output_path": "independent_panels/FigureS6_C.pdf",
+    "output_sha256": "dc65b165e157953e48ed25c3d72851db242f74db3361c1ec68bc5e66c57c8462",
+    "caption_path": "panel_captions/S6_full_caption.txt",
+    "caption_sha256": "eec3afddc668c9bf7680b52e1089992ef4cf65182818baeba4103568c3163ebb",
+    "claim": "STRING coverage and topology are descriptive.",
+    "boundary": "579 union is different from the 549 animal overlap. Hubs do not identify causal targets.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_A_coverage.tsv",
+        "sha256": "59f01ebc914ea66e391158bc57ce75400694c30c5de62073c660736b0ab0518f"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_B_degree.tsv",
+        "sha256": "52816bbaf2eddda02677725634ec25e3d51b46031a6c7b68c0aa4231592d56df"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S6_source_data_C_enrichment.tsv",
+        "sha256": "bc0b581a0222b19f6dc704b6c5c316a6dbc92f0ae6fa91cca44084646f7250f6"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS7_A",
+    "output_path": "independent_panels/FigureS7_A.pdf",
+    "output_sha256": "b44722f03224e9b50cece39b731712f9be535b148297ea5d1cfb1d023f6605eb",
+    "caption_path": "panel_captions/S7_full_caption.txt",
+    "caption_sha256": "06fbaf83f90d1ed19fff6db17c8664dd3140db2d4fb72629b0f2819dfd9038f8",
+    "claim": "Network robustness and proximity describe the frozen graph.",
+    "boundary": "Zero-baseline fractions; no biological knockout, mediation or intervention.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_A_betweenness.tsv",
+        "sha256": "e891f5e2eab89d45b019deba74475dfdcf132a4fb38254c48250045e8936662c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_B_node_removal.tsv",
+        "sha256": "c5b8d98f1862a3b4d58d84faf6b62cfec2f6efa013e6bb3051fcaf7a6ade3add"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_C_pair_distances.tsv",
+        "sha256": "a0f85d20742c84a22d25736a75295cdcde9f64e0f73c823d80347ca417e2a658"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_D_path_coverage.tsv",
+        "sha256": "e1aedb232396d22588d2bd05197c3ee9cf7288cf8db6d921f7850e23233718ab"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS7_B",
+    "output_path": "independent_panels/FigureS7_B.pdf",
+    "output_sha256": "a6df7118349217c3b7a8487baeb390654e9a248e4c4fbb8a85399418c1bfb0e9",
+    "caption_path": "panel_captions/S7_full_caption.txt",
+    "caption_sha256": "06fbaf83f90d1ed19fff6db17c8664dd3140db2d4fb72629b0f2819dfd9038f8",
+    "claim": "Network robustness and proximity describe the frozen graph.",
+    "boundary": "Zero-baseline fractions; no biological knockout, mediation or intervention.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_A_betweenness.tsv",
+        "sha256": "e891f5e2eab89d45b019deba74475dfdcf132a4fb38254c48250045e8936662c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_B_node_removal.tsv",
+        "sha256": "c5b8d98f1862a3b4d58d84faf6b62cfec2f6efa013e6bb3051fcaf7a6ade3add"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_C_pair_distances.tsv",
+        "sha256": "a0f85d20742c84a22d25736a75295cdcde9f64e0f73c823d80347ca417e2a658"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_D_path_coverage.tsv",
+        "sha256": "e1aedb232396d22588d2bd05197c3ee9cf7288cf8db6d921f7850e23233718ab"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS7_C",
+    "output_path": "independent_panels/FigureS7_C.pdf",
+    "output_sha256": "749e8bfa8ef8743ec0264ad531a6cb2dace604c40502f300709aba18b05d18d2",
+    "caption_path": "panel_captions/S7_full_caption.txt",
+    "caption_sha256": "06fbaf83f90d1ed19fff6db17c8664dd3140db2d4fb72629b0f2819dfd9038f8",
+    "claim": "Network robustness and proximity describe the frozen graph.",
+    "boundary": "Zero-baseline fractions; no biological knockout, mediation or intervention.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_A_betweenness.tsv",
+        "sha256": "e891f5e2eab89d45b019deba74475dfdcf132a4fb38254c48250045e8936662c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_B_node_removal.tsv",
+        "sha256": "c5b8d98f1862a3b4d58d84faf6b62cfec2f6efa013e6bb3051fcaf7a6ade3add"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_C_pair_distances.tsv",
+        "sha256": "a0f85d20742c84a22d25736a75295cdcde9f64e0f73c823d80347ca417e2a658"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_D_path_coverage.tsv",
+        "sha256": "e1aedb232396d22588d2bd05197c3ee9cf7288cf8db6d921f7850e23233718ab"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS7_D",
+    "output_path": "independent_panels/FigureS7_D.pdf",
+    "output_sha256": "b469b4043bb7636202695b015869534f1c659f05549b854dfe52fcbf49d69e01",
+    "caption_path": "panel_captions/S7_full_caption.txt",
+    "caption_sha256": "06fbaf83f90d1ed19fff6db17c8664dd3140db2d4fb72629b0f2819dfd9038f8",
+    "claim": "Network robustness and proximity describe the frozen graph.",
+    "boundary": "Zero-baseline fractions; no biological knockout, mediation or intervention.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_A_betweenness.tsv",
+        "sha256": "e891f5e2eab89d45b019deba74475dfdcf132a4fb38254c48250045e8936662c"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_B_node_removal.tsv",
+        "sha256": "c5b8d98f1862a3b4d58d84faf6b62cfec2f6efa013e6bb3051fcaf7a6ade3add"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_C_pair_distances.tsv",
+        "sha256": "a0f85d20742c84a22d25736a75295cdcde9f64e0f73c823d80347ca417e2a658"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/aad_revision_candidate/figures/Supplementary_Figure_S7_source_data_D_path_coverage.tsv",
+        "sha256": "e1aedb232396d22588d2bd05197c3ee9cf7288cf8db6d921f7850e23233718ab"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_A",
+    "output_path": "independent_panels/FigureS8_A.pdf",
+    "output_sha256": "58ad53e52ec554a48100423db873297b5df4ae5ac944550464f5d8c411dd72f5",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_B",
+    "output_path": "independent_panels/FigureS8_B.pdf",
+    "output_sha256": "52e0746837ac31490da0b38ba9f65f163b9346403afbebf38b1e0af6315464da",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_C",
+    "output_path": "independent_panels/FigureS8_C.pdf",
+    "output_sha256": "f66f00a4467752cf480294adbef14fc4b3424e0e07961f27a3655e956eed49a9",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_D",
+    "output_path": "independent_panels/FigureS8_D.pdf",
+    "output_sha256": "75c6116a1333603284282a81f7b5235d0994f12a3ff7bdf1af030e4d13225558",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_E",
+    "output_path": "independent_panels/FigureS8_E.pdf",
+    "output_sha256": "e8e6db6af11fc257967aad0e0a2b8d413490e77a69b265b9bf14e72a6ce0ad9f",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  },
+  {
+    "panel": "FigureS8_F",
+    "output_path": "independent_panels/FigureS8_F.pdf",
+    "output_sha256": "673239db426507233f37f18420963a1b8e78fba57d93b5203787091027d83e73",
+    "caption_path": "panel_captions/S8_full_caption.txt",
+    "caption_sha256": "e685f0af7a2b0a56d4111129d417ddfd26be1f2f3fea9aff57a612ac5dcbb7e7",
+    "claim": "Immune scores and classifier diagnostics have limited interpretation.",
+    "boundary": "20 retrospective samples; 500 bootstrap fits; not cell proportions or future-risk prediction.",
+    "source_data_family": [
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_A_immune_scores.tsv",
+        "sha256": "a837cd4bd0f7dd9f986c895f0033c3543eb1d42a774efe1f287f1931765178ef"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_B_roc.tsv",
+        "sha256": "68c37149c9cf761817d276aa7b3d2e17f1157891fa9089f02f9888df10d54e37"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_C_pr.tsv",
+        "sha256": "5dc35b004ffbff55481c740cdeb5b7620d5cd77366f1254eb02f9801e1b68947"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_D_calibration.tsv",
+        "sha256": "74357276d8f8853fa47376ac363c2c1c2b95a75e7ba0f467c80cc51f59c3a434"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_E_coefficients.tsv",
+        "sha256": "de2fe3c3e66a86331822994db8c2428bd8a78bdebc8d364483a01c708d420e58"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data_F_stability.tsv",
+        "sha256": "9ff8cc8069e7a68707c9e137b7500d28f732e508d3213754371d4ab75a1cf342"
+      },
+      {
+        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Supplementary_Figure_S8_source_data.tsv",
+        "sha256": "abfb1a9880544215a0f2872ee2fc466ff105e69e23b36d0f673cc348a8009c7d"
+      }
+    ],
+    "provenance": "Retrospective present-file binding, not original-run attestation"
+  }
+]

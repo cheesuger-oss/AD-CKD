@@ -1,0 +1,474 @@
+{
+  "assembly": "rn5 / Rnor_5.0 per GEO processing description",
+  "coordinate_policy": "RefSeq genePred is 0-based half-open; source locus convention not explicitly documented; overlapping candidate sets verified invariant under 1-base start shift. Identity additionally requires annotation-derived alias and unique NCBI Gene ID.",
+  "reference_urls": [
+    "https://hgdownload.soe.ucsc.edu/goldenPath/rn5/database/refGene.txt.gz",
+    "https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Mammalia/Rattus_norvegicus.gene_info.gz",
+    "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4403082"
+  ],
+  "files": {
+    "GSE146638_Effect_of_CKD_on_calcified_aorta_by_RNAseq_Processed_data.xlsx": "eab101f6c0d0e460d4ff198fd3055f29f15bdfb6e5004d7afc12501ba93cb108",
+    "Rattus_norvegicus.gene_info.gz": "e7eafeed3e5b4ed8ea742b97b48db1a7a955728fa624bb47141e46ec0850ade5",
+    "rn5_refGene.txt.gz": "d4c501c3cc5db7be0657d8f0a05d00b061fb1da73a9838c8d0690443131c985d"
+  },
+  "records": [
+    {
+      "source_row": 440,
+      "date_identifier": "2002-09-01 00:00:00",
+      "source_annotation": "septin 2",
+      "source_locus_rn5": "chr9:100277908-100433656",
+      "annotation_legacy_symbol": "Sept2",
+      "overlapping_refseq_symbols": [
+        "Farp2",
+        "LOC100362040",
+        "Septin2",
+        "Stk25"
+      ],
+      "ncbi_gene_ids": [
+        "117515"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin2",
+      "refseq_transcripts": [
+        "NM_057148"
+      ]
+    },
+    {
+      "source_row": 558,
+      "date_identifier": "2015-09-01 00:00:00",
+      "source_annotation": "selenoprotein 15",
+      "source_locus_rn5": "chr2:269129473-269162554",
+      "annotation_legacy_symbol": "Sep15",
+      "overlapping_refseq_symbols": [
+        "Selenof"
+      ],
+      "ncbi_gene_ids": [
+        "113922"
+      ],
+      "verified": true,
+      "corrected_symbol": "Selenof",
+      "refseq_transcripts": [
+        "NM_133297"
+      ]
+    },
+    {
+      "source_row": 588,
+      "date_identifier": "2008-09-01 00:00:00",
+      "source_annotation": "septin 8",
+      "source_locus_rn5": "chr10:38659244-38682851",
+      "annotation_legacy_symbol": "Sept8",
+      "overlapping_refseq_symbols": [
+        "Septin8"
+      ],
+      "ncbi_gene_ids": [
+        "303135"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin8",
+      "refseq_transcripts": [
+        "NM_001107002"
+      ]
+    },
+    {
+      "source_row": 1751,
+      "date_identifier": "2011-09-01 00:00:00",
+      "source_annotation": "septin 11",
+      "source_locus_rn5": "chr14:16295535-16378882",
+      "annotation_legacy_symbol": "Sept11",
+      "overlapping_refseq_symbols": [
+        "Septin11"
+      ],
+      "ncbi_gene_ids": [
+        "305227"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin11",
+      "refseq_transcripts": [
+        "NM_001107208"
+      ]
+    },
+    {
+      "source_row": 1816,
+      "date_identifier": "2010-09-01 00:00:00",
+      "source_annotation": "septin 10",
+      "source_locus_rn5": "chr20:30530095-30621223",
+      "annotation_legacy_symbol": "Sept10",
+      "overlapping_refseq_symbols": [
+        "Septin10"
+      ],
+      "ncbi_gene_ids": [
+        "309891"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin10",
+      "refseq_transcripts": [
+        "NM_001014033"
+      ]
+    },
+    {
+      "source_row": 1920,
+      "date_identifier": "2009-09-01 00:00:00",
+      "source_annotation": "septin 9",
+      "source_locus_rn5": "chr10:105841828-105987909",
+      "annotation_legacy_symbol": "Sept9",
+      "overlapping_refseq_symbols": [
+        "Septin9"
+      ],
+      "ncbi_gene_ids": [
+        "83788"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin9",
+      "refseq_transcripts": [
+        "NM_001113497",
+        "NM_031837",
+        "NM_176856"
+      ]
+    },
+    {
+      "source_row": 2180,
+      "date_identifier": "2008-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 8, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr4:214232833-214345405",
+      "annotation_legacy_symbol": "March8",
+      "overlapping_refseq_symbols": [
+        "Marchf8"
+      ],
+      "ncbi_gene_ids": [
+        "312656"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf8",
+      "refseq_transcripts": [
+        "NM_001107882"
+      ]
+    },
+    {
+      "source_row": 2312,
+      "date_identifier": "2005-09-01 00:00:00",
+      "source_annotation": "septin 5",
+      "source_locus_rn5": "chr11:89616381-89622161",
+      "annotation_legacy_symbol": "Sept5",
+      "overlapping_refseq_symbols": [
+        "Gp1bb",
+        "Septin5"
+      ],
+      "ncbi_gene_ids": [
+        "116728"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin5",
+      "refseq_transcripts": [
+        "NM_053931"
+      ]
+    },
+    {
+      "source_row": 2596,
+      "date_identifier": "2004-09-01 00:00:00",
+      "source_annotation": "septin 4",
+      "source_locus_rn5": "chr10:75217842-75227838",
+      "annotation_legacy_symbol": "Sept4",
+      "overlapping_refseq_symbols": [
+        "Septin4"
+      ],
+      "ncbi_gene_ids": [
+        "287606"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin4",
+      "refseq_transcripts": [
+        "NM_001011893"
+      ]
+    },
+    {
+      "source_row": 2635,
+      "date_identifier": "2002-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 2, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr7:18736907-18762836",
+      "annotation_legacy_symbol": "March2",
+      "overlapping_refseq_symbols": [
+        "Marchf2"
+      ],
+      "ncbi_gene_ids": [
+        "362849"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf2",
+      "refseq_transcripts": [
+        "NM_001034108"
+      ]
+    },
+    {
+      "source_row": 2857,
+      "date_identifier": "2002-03-01 00:00:00",
+      "source_annotation": "mitochondrial amidoxime reducing component 2",
+      "source_locus_rn5": "chr13:107401547-107432904",
+      "annotation_legacy_symbol": "Marc2",
+      "overlapping_refseq_symbols": [
+        "Mtarc2"
+      ],
+      "ncbi_gene_ids": [
+        "171451"
+      ],
+      "verified": true,
+      "corrected_symbol": "Mtarc2",
+      "refseq_transcripts": [
+        "NM_134410"
+      ]
+    },
+    {
+      "source_row": 3053,
+      "date_identifier": "2007-09-01 00:00:00",
+      "source_annotation": "septin 7",
+      "source_locus_rn5": "chr8:26435006-26498715",
+      "annotation_legacy_symbol": "Sept7",
+      "overlapping_refseq_symbols": [
+        "Septin7"
+      ],
+      "ncbi_gene_ids": [
+        "64551"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin7",
+      "refseq_transcripts": [
+        "NM_001113740",
+        "NM_022616"
+      ]
+    },
+    {
+      "source_row": 3722,
+      "date_identifier": "2005-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 5",
+      "source_locus_rn5": "chr1:263317719-263338104",
+      "annotation_legacy_symbol": "March5",
+      "overlapping_refseq_symbols": [
+        "Marchf5"
+      ],
+      "ncbi_gene_ids": [
+        "294079"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf5",
+      "refseq_transcripts": [
+        "NM_001106372"
+      ]
+    },
+    {
+      "source_row": 6301,
+      "date_identifier": "2007-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 7, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr3:51400037-51432100",
+      "annotation_legacy_symbol": "March7",
+      "overlapping_refseq_symbols": [
+        "Marchf7"
+      ],
+      "ncbi_gene_ids": [
+        "311059"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf7",
+      "refseq_transcripts": [
+        "NM_001012087"
+      ]
+    },
+    {
+      "source_row": 6427,
+      "date_identifier": "2001-03-01 00:00:00",
+      "source_annotation": "mitochondrial amidoxime reducing component 1",
+      "source_locus_rn5": "chr13:107375894-107398500",
+      "annotation_legacy_symbol": "Marc1",
+      "overlapping_refseq_symbols": [
+        "Mtarc1"
+      ],
+      "ncbi_gene_ids": [
+        "690745"
+      ],
+      "verified": true,
+      "corrected_symbol": "Mtarc1",
+      "refseq_transcripts": [
+        "NM_001100811"
+      ]
+    },
+    {
+      "source_row": 8738,
+      "date_identifier": "2006-09-01 00:00:00",
+      "source_annotation": "septin 6",
+      "source_locus_rn5": "chrX:123673431-123745926",
+      "annotation_legacy_symbol": "Sept6",
+      "overlapping_refseq_symbols": [
+        "Septin6"
+      ],
+      "ncbi_gene_ids": [
+        "691335"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin6",
+      "refseq_transcripts": [
+        "NM_001173429"
+      ]
+    },
+    {
+      "source_row": 8761,
+      "date_identifier": "2003-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 3, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr18:51040239-51192562",
+      "annotation_legacy_symbol": "March3",
+      "overlapping_refseq_symbols": [
+        "Marchf3"
+      ],
+      "ncbi_gene_ids": [
+        "364878"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf3",
+      "refseq_transcripts": [
+        "NM_001007759"
+      ]
+    },
+    {
+      "source_row": 9165,
+      "date_identifier": "2009-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 9",
+      "source_locus_rn5": "chr7:70520709-70522791",
+      "annotation_legacy_symbol": "March9",
+      "overlapping_refseq_symbols": [
+        "Marchf9"
+      ],
+      "ncbi_gene_ids": [
+        "679272"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf9",
+      "refseq_transcripts": [
+        "NM_001100601"
+      ]
+    },
+    {
+      "source_row": 9881,
+      "date_identifier": "2001-09-01 00:00:00",
+      "source_annotation": "septin 1",
+      "source_locus_rn5": "chr1:205652474-205656341",
+      "annotation_legacy_symbol": "Sept1",
+      "overlapping_refseq_symbols": [
+        "Septin1"
+      ],
+      "ncbi_gene_ids": [
+        "293507"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin1",
+      "refseq_transcripts": [
+        "NM_001012460"
+      ]
+    },
+    {
+      "source_row": 12232,
+      "date_identifier": "2011-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 11",
+      "source_locus_rn5": "chr2:98502836-98603749",
+      "annotation_legacy_symbol": "March11",
+      "overlapping_refseq_symbols": [
+        "Marchf11"
+      ],
+      "ncbi_gene_ids": [
+        "499558"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf11",
+      "refseq_transcripts": [
+        "NM_001101828"
+      ]
+    },
+    {
+      "source_row": 12848,
+      "date_identifier": "2010-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 10, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr10:93350037-93438439",
+      "annotation_legacy_symbol": "March10",
+      "overlapping_refseq_symbols": [
+        "Marchf10"
+      ],
+      "ncbi_gene_ids": [
+        "303596"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf10",
+      "refseq_transcripts": [
+        "NM_001013973"
+      ]
+    },
+    {
+      "source_row": 14228,
+      "date_identifier": "2001-03-01 00:00:00",
+      "source_annotation": "membrane-associated ring finger (C3HC4) 1, E3 ubiquitin protein ligase",
+      "source_locus_rn5": "chr16:24885331-25407999",
+      "annotation_legacy_symbol": "March1",
+      "overlapping_refseq_symbols": [
+        "Marchf1"
+      ],
+      "ncbi_gene_ids": [
+        "361135"
+      ],
+      "verified": true,
+      "corrected_symbol": "Marchf1",
+      "refseq_transcripts": [
+        "NM_001135838"
+      ]
+    },
+    {
+      "source_row": 16333,
+      "date_identifier": "2012-09-01 00:00:00",
+      "source_annotation": "septin 12",
+      "source_locus_rn5": "chr10:9541629-9551204",
+      "annotation_legacy_symbol": "Sept12",
+      "overlapping_refseq_symbols": [
+        "Septin12"
+      ],
+      "ncbi_gene_ids": [
+        "363542"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin12",
+      "refseq_transcripts": [
+        "NM_001100865"
+      ]
+    },
+    {
+      "source_row": 16334,
+      "date_identifier": "2014-09-01 00:00:00",
+      "source_annotation": "septin 14",
+      "source_locus_rn5": "chr12:32540465-32560172",
+      "annotation_legacy_symbol": "Sept14",
+      "overlapping_refseq_symbols": [
+        "Septin14"
+      ],
+      "ncbi_gene_ids": [
+        "689118"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin14",
+      "refseq_transcripts": [
+        "NM_001368669"
+      ]
+    },
+    {
+      "source_row": 16335,
+      "date_identifier": "2003-09-01 00:00:00",
+      "source_annotation": "septin 3",
+      "source_locus_rn5": "chr7:123491252-123511261",
+      "annotation_legacy_symbol": "Sept3",
+      "overlapping_refseq_symbols": [
+        "Septin3"
+      ],
+      "ncbi_gene_ids": [
+        "56003"
+      ],
+      "verified": true,
+      "corrected_symbol": "Septin3",
+      "refseq_transcripts": [
+        "NM_019375"
+      ]
+    }
+  ],
+  "status": "PASS"
+}

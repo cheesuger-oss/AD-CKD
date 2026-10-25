@@ -1,0 +1,8 @@
+{
+  "changed_identifiers": 25,
+  "expression_values_unchanged": true,
+  "rows": 17019,
+  "samples": 14,
+  "original_gzip_sha256": "d359a655351511ff4cf666135fa9eb4de2e0c4f6438d117c7f015d49dbb531d8",
+  "corrected_gzip_sha256": "8c2cd581b24115e356806364de0a2217fba1e542c764469244a336476970e550"
+}

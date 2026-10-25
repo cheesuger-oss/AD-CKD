@@ -1,0 +1,16 @@
+gene	degree	weighted_degree	betweenness_normalized	rank_rule	module
+FN1	124	82.37	0.0630543	degree_desc;betweenness_desc;gene_asc	other
+TGFB1	123	79.296	0.0391271964	degree_desc;betweenness_desc;gene_asc	URE_only
+MMP9	112	71.829	0.0303051104	degree_desc;betweenness_desc;gene_asc	URE_only
+MYC	110	64.29	0.0890300518	degree_desc;betweenness_desc;gene_asc	other
+NFKB1	97	57.126	0.0258972916	degree_desc;betweenness_desc;gene_asc	URE_only
+PTPRC	97	59.481	0.0228892786	degree_desc;betweenness_desc;gene_asc	other
+COL1A1	95	61.156	0.0291555546	degree_desc;betweenness_desc;gene_asc	URE_only
+CD44	92	61.716	0.0322596125	degree_desc;betweenness_desc;gene_asc	other
+CASP3	91	54.271	0.0340307959	degree_desc;betweenness_desc;gene_asc	other
+CXCR4	87	52.224	0.0193752691	degree_desc;betweenness_desc;gene_asc	other
+ITGAM	87	54.576	0.010478659	degree_desc;betweenness_desc;gene_asc	other
+MMP2	84	52.507	0.0091272946	degree_desc;betweenness_desc;gene_asc	URE_only
+PTGS2	81	46.002	0.0241300736	degree_desc;betweenness_desc;gene_asc	other
+APOE	80	48.255	0.0330473773	degree_desc;betweenness_desc;gene_asc	other
+CCND1	79	47.035	0.0248702778	degree_desc;betweenness_desc;gene_asc	other

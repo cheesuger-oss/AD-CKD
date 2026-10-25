@@ -1,0 +1,56 @@
+{
+  "status": "HISTORICAL_SEQUENCE_SUPPORTED_FOR_RECORDED_PRIMARY_HUMAN_ANALYSIS",
+  "recovered_on": "2026-10-25",
+  "source_sha256": "3cf9b6d234d2deb9e4add96698e20f5dd501396ed7f26416a14991c8749b7f74",
+  "restoration": "Recovered verbatim from historical FileChange event, not a newly authored plan; restored bytes match historical SHA printed at line 3963.",
+  "spec_sha256": "82218c2905e4096d705c004e5351092c4ed2ac9d5216fb441bdf1a57a02d09d0",
+  "six_go_ids": [
+    "GO:0030198",
+    "GO:0001503",
+    "GO:0006939",
+    "GO:0048659",
+    "GO:0048660",
+    "GO:0048661"
+  ],
+  "ids_match_initial_and_current_script": true,
+  "timeline": [
+    {
+      "event": "specification file creation confirmed",
+      "line": 3647,
+      "utc": "2026-08-09T01:27:53.914Z",
+      "asia_shanghai": "2026-08-09 09:27:53"
+    },
+    {
+      "event": "analysis script creation call",
+      "line": 3806,
+      "utc": "2026-08-09T03:59:36.317Z",
+      "asia_shanghai": "2026-08-09 11:59:36"
+    },
+    {
+      "event": "first recorded script execution in this sequence",
+      "line": 3811,
+      "utc": "2026-08-09T03:59:44.160Z",
+      "asia_shanghai": "2026-08-09 11:59:44"
+    },
+    {
+      "event": "completed human result summary and hashes displayed",
+      "line": 3929,
+      "utc": "2026-08-09T04:12:39.180Z",
+      "asia_shanghai": "2026-08-09 12:12:39"
+    },
+    {
+      "event": "specification and result SHA recorded",
+      "line": 3963,
+      "utc": "2026-08-09T04:15:48.399Z",
+      "asia_shanghai": "2026-08-09 12:15:48"
+    }
+  ],
+  "limits": [
+    "Local historical execution record, not external preregistration or immutable third-party timestamp",
+    "Supports recorded GSE153434/GSE38750 pathway plan preceding recorded analysis; does not prove absence of unrecorded prior work",
+    "Does not establish selection before animal discovery or independently prove all other historical freezes",
+    "GSE38751 companion analysis chronology is not established by this initial plan"
+  ],
+  "decision": "Earlier missing-record concern is materially resolved for the primary human six-pathway plan; do not insert a blanket claim that no historical record exists. Retain distinction between animal-derived selection and subsequent human testing.",
+  "source_description": "Local historical execution journal retained privately by the authors; not an external registration."
+}

@@ -1,0 +1,21 @@
+{
+  "author_approved": true,
+  "excluded": [
+    {
+      "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/GSE146638_expression_corrected.tsv.gz",
+      "bytes": 636254,
+      "sha256": "8c2cd581b24115e356806364de0a2217fba1e542c764469244a336476970e550"
+    },
+    {
+      "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/results/baseline_expression_model.rds",
+      "bytes": 765171,
+      "sha256": "3f6ecfc80b2d533d73b515c4788bc215c9f660b09037a2b9d539a53db9287d12"
+    },
+    {
+      "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/results/corrected_expression_model.rds",
+      "bytes": 765176,
+      "sha256": "f458b41d65c0e4b70dfced045d5ceec05792942fa7f9a9562267e378b8af988b"
+    }
+  ],
+  "local_audit_files_retained": true
+}

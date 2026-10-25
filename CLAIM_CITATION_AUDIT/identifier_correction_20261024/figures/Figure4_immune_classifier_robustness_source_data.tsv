@@ -1,0 +1,4 @@
+panel	file	contents	claim_ids
+A	Figure4_immune_classifier_robustness_source_data_A_immune.tsv	immune programme effects, approximate confidence intervals and BH results	C16
+B	Figure4_immune_classifier_robustness_source_data_B_random_auc.tsv	observed and 100 size-matched random-gene nested OOF AUC values	C17
+C	Figure4_immune_classifier_robustness_source_data_C_external.tsv	all four frozen external cohorts, status, sample sizes, coverage, AUC and bootstrap intervals	C18-C19, C21

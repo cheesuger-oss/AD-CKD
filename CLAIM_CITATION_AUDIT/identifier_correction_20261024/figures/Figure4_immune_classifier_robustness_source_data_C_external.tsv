@@ -1,0 +1,5 @@
+dataset	status	case_n	control_n	signature_gene_n	signature_coverage	auc	auc_ci_low	auc_ci_high	standardized_effect	effect_se	reason
+GSE52093	EVALUATED	7	5	27	1	0.914285714285714	0.714285714285714	1	1.88252521759863	0.721146450176301	locked rank-weighted signature; no refit
+GSE98770	EVALUATED	6	5	27	1	0.4	0.0666666666666667	0.733333333333333	-0.187851224633898	0.607146700312044	locked rank-weighted signature; no refit
+GSE147026	NOT_READY	4	4								metadata-only series matrix; zero expression rows
+GSE190635	EVALUATED	4	4	26	0.962962962962963	0.25	0	0.6875	-1.20152629591553	0.787594726566087	locked rank-weighted signature; no refit

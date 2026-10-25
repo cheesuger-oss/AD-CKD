@@ -1,0 +1,16 @@
+{
+  "record_type": "RETROSPECTIVE_REVISION_AUDIT",
+  "created_at": "2026-10-24T17:35:30.598669+08:00",
+  "author_authorization": "没有完整归档，补建回顾性审计记录",
+  "original_execution_timestamp": null,
+  "prospective_freeze_timestamp": null,
+  "historical_run_attestation": false,
+  "independent_human_review": false,
+  "new_statistical_analysis": false,
+  "limitations": [
+    "Original complete run logs, original result cards and prospective claim plans were not recovered.",
+    "Current hashes establish present file identity, not original execution dates or prospective decisions.",
+    "Existing caption assertions about frozen choices are transcribed, not independently proven by this audit.",
+    "No evidence grades, P values, sample counts or historical dates are invented to satisfy a schema."
+  ]
+}

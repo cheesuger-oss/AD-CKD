@@ -1,0 +1,34 @@
+options(stringsAsFactors=FALSE)
+library(data.table);library(limma)
+root<-normalizePath('CLAIM_CITATION_AUDIT/identifier_correction_20261024')
+meta<-fread(file.path(root,'frozen/results/geo/GSE146638_sample_metadata.tsv'))
+meta<-meta[include_primary=='yes']
+stopifnot(nrow(meta)==10,sum(meta$primary_group=='Control')==5,sum(meta$primary_group=='Uremic')==5)
+meta$primary_group<-factor(meta$primary_group,levels=c('Control','Uremic'))
+design<-model.matrix(~primary_group,meta)
+run<-function(path,label){
+ x<-fread(path);ids<-x[[1]];mat<-as.matrix(x[,-1]);storage.mode(mat)<-'double'
+ rownames(mat)<-ids;mat<-rowsum(mat,group=ids,reorder=FALSE,na.rm=TRUE)
+ selected<-mat[,meta$expression_column,drop=FALSE]
+ keep<-rowMeans(selected)>1;expr<-log2(selected[keep,,drop=FALSE]+1)
+ fit<-eBayes(lmFit(expr,design),trend=TRUE)
+ tab<-as.data.table(topTable(fit,coef='primary_groupUremic',number=Inf,sort.by='P'),keep.rownames='gene_symbol')
+ deg<-tab[adj.P.Val<.05 & abs(logFC)>.5]
+ fwrite(tab,file.path(root,'results',paste0(label,'_all_genes.csv')))
+ fwrite(deg,file.path(root,'results',paste0(label,'_DEG.csv')))
+ saveRDS(list(expr=expr,metadata=meta,design=design),file.path(root,'results',paste0(label,'_expression_model.rds')))
+ list(all=tab,deg=deg,summary=data.table(version=label,tested=nrow(tab),DEG=nrow(deg),up=sum(deg$logFC>0),down=sum(deg$logFC<0),control_n=5,case_n=5))
+}
+old<-run(file.path(root,'../identifier_source_audit/GSE146638_expression.tsv.gz'),'baseline')
+frozen<-fread(file.path(root,'../identifier_source_audit/GSE146638_all_genes.csv'))
+cmp<-merge(old$all,frozen,by='gene_symbol',suffixes=c('_rerun','_frozen'))
+stopifnot(nrow(cmp)==nrow(frozen))
+diffs<-rbindlist(lapply(c('logFC','AveExpr','t','P.Value','adj.P.Val','B'),function(k)data.table(field=k,max_absolute_delta=max(abs(cmp[[paste0(k,'_rerun')]]-cmp[[paste0(k,'_frozen')]])))))
+fwrite(diffs,file.path(root,'results/baseline_reproduction.csv'))
+stopifnot(all(diffs$max_absolute_delta<1e-9))
+new<-run(file.path(root,'GSE146638_expression_corrected.tsv.gz'),'corrected')
+fwrite(rbind(old$summary,new$summary),file.path(root,'results/differential_change_summary.csv'))
+joined<-merge(old$all,new$all,by='gene_symbol',suffixes=c('_old','_new'),all=TRUE)
+fwrite(joined,file.path(root,'results/differential_all_gene_comparison.csv'))
+writeLines(capture.output(sessionInfo()),file.path(root,'results/limma_sessionInfo.txt'))
+print(diffs);print(rbind(old$summary,new$summary))

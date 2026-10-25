@@ -1,0 +1,5 @@
+panel	file	claim_ids
+A	Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv	C2
+B	Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv	C3
+C	Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv	C10-C11
+D	Figure2_pathway_convergence_human_support_source_data_D_design.tsv	C10-C11

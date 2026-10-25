@@ -1,0 +1,6 @@
+order	stage	evidence	interpretation	status
+1	Initial observation	Animal aortas: 549 shared DEGs; 155 shared pathways; matrix and smooth-muscle programmes	Broad molecular convergence in experimental models	Observed
+2	Human tissue test	Two of six frozen programmes recurred in both datasets: extracellular matrix organization and ossification	Narrower, non-directional human support; one dataset confounds disease with arterial site	Narrowed
+3	Genetic test	No primary MR estimate passed BH correction; LDSC non-estimable; colocalization prior-sensitive; reverse MR limited	Does not establish a renal-to-dissection relationship; smaller effects remain possible	Constrained
+4	Specificity and transfer tests	No immune programme passed correction in either human dataset; random-gene controls performed similarly; external AUCs varied	Does not establish immune replication, renal-origin specificity or future-risk prediction	Constrained
+5	Retained claim	A bounded arterial-remodelling tissue-state overlap, strongest for matrix-related programmes	Not a causal mechanism, therapeutic target or generalizable renal-derived signature	Supported boundary

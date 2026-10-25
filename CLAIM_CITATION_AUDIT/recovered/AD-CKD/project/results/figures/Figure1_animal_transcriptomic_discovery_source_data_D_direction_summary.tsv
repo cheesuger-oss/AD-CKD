@@ -1,0 +1,5 @@
+direction	genes	concordance	sensitivity_comparison	sensitivity_deg_count
+Up in both	327	Concordant	AAD versus BAPN-exposed non-AD	1963
+Down in both	151	Concordant	AAD versus BAPN-exposed non-AD	1963
+Up renal / down AD	36	Discordant	AAD versus BAPN-exposed non-AD	1963
+Down renal / up AD	35	Discordant	AAD versus BAPN-exposed non-AD	1963

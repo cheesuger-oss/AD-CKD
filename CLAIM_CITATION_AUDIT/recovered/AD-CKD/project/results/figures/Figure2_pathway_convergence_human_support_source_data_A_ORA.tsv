@@ -1,0 +1,13 @@
+pathway_id	pathway_name	model	q
+GO:0030198	Extracellular matrix organization	Renal dysfunction	1.27562107917153e-05
+GO:0001503	Ossification	Renal dysfunction	0.000982975194528406
+GO:0006939	Smooth muscle contraction	Renal dysfunction	0.00168436677599006
+GO:0048659	Smooth muscle cell proliferation	Renal dysfunction	0.00397316542731131
+GO:0048660	Regulation of smooth muscle proliferation	Renal dysfunction	0.00465325511109126
+GO:0048661	Positive regulation of smooth muscle proliferation	Renal dysfunction	0.0086770011911486
+GO:0030198	Extracellular matrix organization	Aortic dissection	4.25010368336415e-08
+GO:0001503	Ossification	Aortic dissection	4.10203395769811e-05
+GO:0006939	Smooth muscle contraction	Aortic dissection	8.74653449640051e-07
+GO:0048659	Smooth muscle cell proliferation	Aortic dissection	0.000233312851815116
+GO:0048660	Regulation of smooth muscle proliferation	Aortic dissection	0.000191135142672974
+GO:0048661	Positive regulation of smooth muscle proliferation	Aortic dissection	0.00263659765016569
