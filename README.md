@@ -1,3 +1,30 @@
+# Revision code and Source Data with approved figure-layout update
+
+This repository snapshot includes the approved revision figure-layout update.
+It replaces the separately supplied ZIP delivery route for this revision.
+The previously published 500-file baseline remains at GitHub commit
+6d8bcfef58f5a9e5c4ed587d839ee237b16c90c1. It was downloaded and verified.
+The display-only update is included in this snapshot; it is not part of the
+prior baseline commit. Use the immutable commit link supplied with the revision.
+All pre-existing scientific Source Data, model results and analytical scripts are unchanged.
+Current Figure 2 uses A (old B+C), B (old A), C (old D); the obsolete independent D
+is absent. Current panel PDFs and captions are authoritative over historical audit captures.
+Figure 5 retains every source evidence and boundary sentence, with a new layout.
+
+Regenerate these two updated figures, without running analysis:
+
+    Rscript layout_update_20261025/build_final.R
+
+Requires macOS R with Quartz, grid, jsonlite, digest, svglite, ragg and magick.
+Outputs are written only within layout_update_20261025/outputs. The approved_design.R
+file is a dependency snapshot; invoke build_final.R, not the snapshot directly.
+The existing MIT / CC BY 4.0 and third-party exclusions remain unchanged.
+
+## Historical baseline instructions
+
+The material below describes the prior 500-file baseline. For Figure 2 and Figure 5,
+the layout update above takes precedence. Historical status text is not current approval.
+
 # Corrected revision code and Source Data — author-approved public archive
 
 CBAC-D-26-05362; public-file scope approved on 25 October 2026.

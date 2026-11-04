@@ -146,9 +146,9 @@
   {
     "panel": "Figure2_A",
     "output_path": "independent_panels/Figure2_A.pdf",
-    "output_sha256": "3c6e119b5fd950401db8bb072f5e25775eb6fbf98620e9d49e39fa3f372ddf53",
+    "output_sha256": "0bbfa0efd24fa8c15732cdae2c6800d456f9efdfc462cfd1310df106192bec7e",
     "caption_path": "panel_captions/Figure2_full_caption.txt",
-    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "caption_sha256": "61a29550c11d9887141f05ab2d1bf39f3c3ddf54c2c3d9a4bcb59baed6942dcb",
     "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
     "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
     "source_data_family": [
@@ -173,14 +173,16 @@
         "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
       }
     ],
-    "provenance": "Retrospective present-file binding, not original-run attestation"
+    "provenance": "Retrospective present-file binding, not original-run attestation",
+    "layout_generator": "layout_update_20261025/build_final.R",
+    "panel_mapping": "old B+C"
   },
   {
     "panel": "Figure2_B",
     "output_path": "independent_panels/Figure2_B.pdf",
-    "output_sha256": "86a7047d2535ab87395de855d4c0b3229351376986aa1c4deb090222e73460c8",
+    "output_sha256": "ad850f7972e541015d85e77ec0512639c30c36e056b79cd3c0bc048ab0234e9f",
     "caption_path": "panel_captions/Figure2_full_caption.txt",
-    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "caption_sha256": "61a29550c11d9887141f05ab2d1bf39f3c3ddf54c2c3d9a4bcb59baed6942dcb",
     "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
     "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
     "source_data_family": [
@@ -205,14 +207,16 @@
         "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
       }
     ],
-    "provenance": "Retrospective present-file binding, not original-run attestation"
+    "provenance": "Retrospective present-file binding, not original-run attestation",
+    "layout_generator": "layout_update_20261025/build_final.R",
+    "panel_mapping": "old A"
   },
   {
     "panel": "Figure2_C",
     "output_path": "independent_panels/Figure2_C.pdf",
-    "output_sha256": "7af8b41bf761cb62e3b066fa824a746e8de6e29af0dbe0755fbdcf339ed0dc99",
+    "output_sha256": "4711c66e20f090d91710092f290c0dc3ee60f9b2be12521bef7136058b5b8858",
     "caption_path": "panel_captions/Figure2_full_caption.txt",
-    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
+    "caption_sha256": "61a29550c11d9887141f05ab2d1bf39f3c3ddf54c2c3d9a4bcb59baed6942dcb",
     "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
     "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
     "source_data_family": [
@@ -237,39 +241,9 @@
         "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
       }
     ],
-    "provenance": "Retrospective present-file binding, not original-run attestation"
-  },
-  {
-    "panel": "Figure2_D",
-    "output_path": "independent_panels/Figure2_D.pdf",
-    "output_sha256": "f8c4bc56c794e8ef27ec2b83728b1f1fc5bdf2a39bdf0dd79f07f1fd95c2ecc3",
-    "caption_path": "panel_captions/Figure2_full_caption.txt",
-    "caption_sha256": "12edd0020ce98739479a3e54a571d52b1adc2c36b5d9f88a1af1a895264bf077",
-    "claim": "Frozen remodelling programmes have narrower context-dependent human support.",
-    "boundary": "GO smooth-muscle and KEGG vascular smooth-muscle terms are not interchangeable; rat KEGG q=0.055488 remains nonsignificant.",
-    "source_data_family": [
-      {
-        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv",
-        "sha256": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600"
-      },
-      {
-        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv",
-        "sha256": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1"
-      },
-      {
-        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv",
-        "sha256": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8"
-      },
-      {
-        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv",
-        "sha256": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9"
-      },
-      {
-        "path": "CLAIM_CITATION_AUDIT/identifier_correction_20261024/figures/Figure2_pathway_convergence_human_support_source_data.tsv",
-        "sha256": "870d4291a4dd58510d0fb50594a2f8efb0102918927675522117d21e929826eb"
-      }
-    ],
-    "provenance": "Retrospective present-file binding, not original-run attestation"
+    "provenance": "Retrospective present-file binding, not original-run attestation",
+    "layout_generator": "layout_update_20261025/build_final.R",
+    "panel_mapping": "old D"
   },
   {
     "panel": "Figure3_A",

@@ -1,0 +1,24 @@
+{
+  "source_sha256": {
+    "figures/Figure2_pathway_convergence_human_support_source_data_A_ORA.tsv": "59d8b4bf8e07fcaf6f33c956a3998c7183b38583762a70c8b04b01cd65537600",
+    "figures/Figure2_pathway_convergence_human_support_source_data_B_animal_GSEA.tsv": "e951144312a6757cc77d0d7890108a86cac36882cd1bcd516e453c36446fdea1",
+    "figures/Figure2_pathway_convergence_human_support_source_data_C_human_GSEA.tsv": "79fb989e77a9215abbf6a061491879a37e6ef4f97007f2eaeafe92c60ec283a8",
+    "figures/Figure2_pathway_convergence_human_support_source_data_D_design.tsv": "53440dd53c3102afe3a78ed60b06e124ac10f1715ced8ee406044f7713c5e3e9",
+    "figures/Figure5_current_synthesis_source_data.tsv": "7b065bc953b873d3e0e8246499d95ce40e578b188322b9620be64a4ee558fd41"
+  },
+  "source_unchanged": true,
+  "no_analysis_rerun": true,
+  "panel_mapping": {
+    "A": "Previous B + C; 30 original NES values",
+    "B": "Previous A; 12 original ORA q values",
+    "C": "Previous D; 6 original sampling rows"
+  },
+  "device": "R Quartz PDF; SVG svglite; PNG ragg",
+  "dimensions_mm": {
+    "Figure2_A": [190, 123],
+    "Figure2_B": [140, 76],
+    "Figure2_C": [140, 76],
+    "Figure5": [190, 151]
+  },
+  "minimum_text_pt": 7
+}
